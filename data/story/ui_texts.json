@@ -1,0 +1,66 @@
+{
+  "strings": {
+    "mission_pass": {
+      "text": "ПОЧУВ!",
+      "event_text": "Місію пройдено",
+      "source": "docs/story/side-content.md:49"
+    },
+    "mission_fail": {
+      "text": "НЕ ВИВІЗ",
+      "event_text": "Місію провалено",
+      "source": "docs/story/side-content.md:50"
+    },
+    "player_dead": {
+      "text": "НАЖАЛ",
+      "event_text": "Смерть",
+      "source": "docs/story/side-content.md:51"
+    },
+    "player_arrested": {
+      "text": "ПРИЙНЯЛИ",
+      "event_text": "Арешт",
+      "source": "docs/story/side-content.md:52"
+    },
+    "jump_success": {
+      "text": "ТВЕРДІ.",
+      "event_text": "Стрибок",
+      "source": "docs/story/side-content.md:53"
+    },
+    "save_in_progress": {
+      "text": "Маринування…",
+      "event_text": "Збереження",
+      "source": "docs/story/side-content.md:54"
+    }
+  },
+  "cheats": [
+    {
+      "code": "ЙОБНЄМКАВИ",
+      "effect_text": "повне здоров'я",
+      "source": "docs/story/side-content.md:77"
+    },
+    {
+      "code": "ЕТОМОЛОТОКБРАТ",
+      "effect_text": "усі ближні зброї",
+      "source": "docs/story/side-content.md:78"
+    },
+    {
+      "code": "ПОЧУВ",
+      "effect_text": "розшук знято",
+      "source": "docs/story/side-content.md:79"
+    },
+    {
+      "code": "ВАЙБКОД",
+      "effect_text": "випадкова погода",
+      "source": "docs/story/side-content.md:80"
+    },
+    {
+      "code": "МАРИНУВАННЯ",
+      "effect_text": "усі перехожі з ковдрами на головах",
+      "source": "docs/story/side-content.md:81"
+    },
+    {
+      "code": "МОЙКОМПЮТЕРІЗДАЛПУК",
+      "effect_text": "машини від поштовху вибухають",
+      "source": "docs/story/side-content.md:82"
+    }
+  ]
+}

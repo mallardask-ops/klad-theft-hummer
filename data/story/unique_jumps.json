@@ -1,0 +1,196 @@
+{
+  "jumps": [
+    {
+      "number": 1,
+      "title": "«ЧЕРЕЗ ПЕРЕЇЗД»",
+      "location_text": "залізничний переїзд на заході",
+      "requirements_text": "будь-яке авто, не менше 70 км/год, злетіти з рейок на платформу за 10 м",
+      "act": 1,
+      "source": "docs/story/missions/side_activities.md:1268"
+    },
+    {
+      "number": 2,
+      "title": "«ДАХ ГАРАЖУ»",
+      "location_text": "Гаражі",
+      "requirements_text": "скутер із пандуса зі шин на сусідній ряд боксів",
+      "act": 1,
+      "source": "docs/story/missions/side_activities.md:1269"
+    },
+    {
+      "number": 3,
+      "title": "«ХЛІБОЗАВОДСЬКА РАМПА»",
+      "location_text": "Промзона",
+      "requirements_text": "скутер із рампи Опаришів над конвеєром у люк вантажного відсіку",
+      "act": 1,
+      "source": "docs/story/missions/side_activities.md:1270"
+    },
+    {
+      "number": 4,
+      "title": "«ЛІСОПИЛКА, ЧЕРЕЗ СТРІЧКУ»",
+      "location_text": "Лісопилка",
+      "requirements_text": "будь-яке авто через транспортер колод у купу тирси",
+      "act": 1,
+      "source": "docs/story/missions/side_activities.md:1271"
+    },
+    {
+      "number": 5,
+      "title": "«ПАНЕЛЬНИЙ ПАРКУР»",
+      "location_text": "П'ятиповерхівки",
+      "requirements_text": "пішки: з даху гаража на дах сараю з розбігу по лавці",
+      "act": 1,
+      "source": "docs/story/missions/side_activities.md:1272"
+    },
+    {
+      "number": 6,
+      "title": "«ТРАНШЕЯ НА КИЇВСЬКІЙ»",
+      "location_text": "Київська, ремонтна траншея",
+      "requirements_text": "авто від 60 км/год, траншея 6 м",
+      "act": 1,
+      "source": "docs/story/missions/side_activities.md:1273"
+    },
+    {
+      "number": 7,
+      "title": "«ЗІ ШИФЕРУ НА МАРШРУТКУ»",
+      "location_text": "автостанція, шиферний навіс",
+      "requirements_text": "пішки або мопед: зі стрибком на дах стоячої маршрутки",
+      "act": 1,
+      "source": "docs/story/missions/side_activities.md:1274"
+    },
+    {
+      "number": 8,
+      "title": "«МАРШРУТКОЮ ЧЕРЕЗ ДВІР»",
+      "location_text": "П'ятиповерхівки, між турніком і сушкою",
+      "requirements_text": "маршрутка від 55 км/год через пагорб землі",
+      "act": 1,
+      "source": "docs/story/missions/side_activities.md:1275"
+    },
+    {
+      "number": 9,
+      "title": "«ВАЛ ПІД РДА»",
+      "location_text": "Центр, пустир за РДА",
+      "requirements_text": "будь-яке авто, вал із землі 4 м",
+      "act": 1,
+      "source": "docs/story/missions/side_activities.md:1276"
+    },
+    {
+      "number": 10,
+      "title": "«ПЕРОН \"КОРОСТИШІВ\"»",
+      "location_text": "станція",
+      "requirements_text": "авто з платформи на сусідню колію",
+      "act": 1,
+      "source": "docs/story/missions/side_activities.md:1277"
+    },
+    {
+      "number": 11,
+      "title": "«МІСТ, ЯКИЙ ВІДКРИЛИ»",
+      "location_text": "міст через Тетерів, пролом у плиті «ремонт з 2009»",
+      "requirements_text": "авто від 90 км/год",
+      "act": 2,
+      "source": "docs/story/missions/side_activities.md:1278"
+    },
+    {
+      "number": 12,
+      "title": "«БАСЕЙН САНАТОРІЮ»",
+      "location_text": "Заріччя, санаторій",
+      "requirements_text": "мопед через порожній басейн",
+      "act": 2,
+      "source": "docs/story/missions/side_activities.md:1279"
+    },
+    {
+      "number": 13,
+      "title": "«ЧЕРЕЗ ГАМАКИ»",
+      "location_text": "чайхана «Самовар»",
+      "requirements_text": "авто з-за воріт над гамаками на подвір'я",
+      "act": 2,
+      "source": "docs/story/missions/side_activities.md:1280"
+    },
+    {
+      "number": 14,
+      "title": "«ПІД ПРОВОДАМИ»",
+      "location_text": "Околиці, під ЛЕП",
+      "requirements_text": "авто по двох горбах під проводами",
+      "act": 2,
+      "source": "docs/story/missions/side_activities.md:1281"
+    },
+    {
+      "number": 15,
+      "title": "«ГРАНІТНІ БРИЛИ»",
+      "location_text": "кладовище пам'ятників",
+      "requirements_text": "авто з одного постаменту на інший (7 м)",
+      "act": 2,
+      "source": "docs/story/missions/side_activities.md:1282"
+    },
+    {
+      "number": 16,
+      "title": "«ТЕРАСА ПЕНТХАУСА»",
+      "location_text": "Околиці, дев'ятиповерхівка",
+      "requirements_text": "пішки з даху гаража на нижню терасу із пакетом АТБ як «парашутом»",
+      "act": 2,
+      "source": "docs/story/missions/side_activities.md:1283"
+    },
+    {
+      "number": 17,
+      "title": "«ЛІСОВИЙ ЯР»",
+      "location_text": "ліс над Тетеревом",
+      "requirements_text": "УАЗ-«буханка» від 70 км/год через яр",
+      "act": 3,
+      "source": "docs/story/missions/side_activities.md:1284"
+    },
+    {
+      "number": 18,
+      "title": "«ПРОЛОМ КАР'ЄРНОЇ ДОРОГИ»",
+      "location_text": "кар'єр",
+      "requirements_text": "авто від 100 км/год через розрив у дорозі (використовується в гонці №6)",
+      "act": 3,
+      "source": "docs/story/missions/side_activities.md:1285"
+    },
+    {
+      "number": 19,
+      "title": "«ПРОТОКА КАР'ЄРУ»",
+      "location_text": "затока кар'єру",
+      "requirements_text": "катер-моторний човен через перешийок на воду",
+      "act": 3,
+      "source": "docs/story/missions/side_activities.md:1286"
+    },
+    {
+      "number": 20,
+      "title": "«ВІД НАСОСНОЇ В ОЗЕРО»",
+      "location_text": "насосна №2, пірс",
+      "requirements_text": "машина з даху насосної на пірс, потім у воду. «ПОДНАЖМЬОМ!» дається лише при влучанні в центр понтона",
+      "act": 3,
+      "source": "docs/story/missions/side_activities.md:1287"
+    }
+  ],
+  "ratings": [
+    {
+      "text": "ТВЕРДІ.",
+      "condition_text": "приземлився на колеса або ноги",
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1263"
+    },
+    {
+      "text": "ДУЖЕ ТВЕРДІ.",
+      "condition_text": "+ у повітрі більше 2 с або 180°+",
+      "reward_money": 2000,
+      "source": "docs/story/missions/side_activities.md:1263"
+    },
+    {
+      "text": "ПОДНАЖМЬОМ!",
+      "condition_text": "приземлення точно в центр контуру без шкоди для авто/Подро",
+      "reward_money": 3000,
+      "source": "docs/story/missions/side_activities.md:1263"
+    }
+  ],
+  "milestones": [
+    {
+      "completed": 10,
+      "reward_text": "трофей «Каскадер» (шолом Подро для їзди)",
+      "source": "docs/story/missions/side_activities.md:1264"
+    },
+    {
+      "completed": 20,
+      "reward_text": "машина-каскадер «Шістка-Трамплін» (сталева підвіска) на сховці",
+      "source": "docs/story/missions/side_activities.md:1264"
+    }
+  ]
+}

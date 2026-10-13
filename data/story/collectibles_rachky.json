@@ -1,0 +1,141 @@
+{
+  "total": 15,
+  "unlock_after": "Е-3",
+  "rules": [
+    {
+      "text": "Принести коробки до вчительки партіями по 5; вона оцінює стан, рахує, записує в журнал.",
+      "source": "docs/story/missions/side_activities.md:1353"
+    },
+    {
+      "text": "Приймає коробки в аудиторії №12 (педколедж, гуртожиток).",
+      "source": "docs/story/missions/side_activities.md:1352"
+    }
+  ],
+  "items": [
+    {
+      "number": 1,
+      "location_text": "Гастроном (Люда)",
+      "pickup_text": "Свіжі. Не з кладовища, Люда клянеться. Чек зберіг.",
+      "received_in_mission": "Е-3",
+      "source": "docs/story/missions/side_activities.md:1359"
+    },
+    {
+      "number": 2,
+      "location_text": "Педколедж, під сходами",
+      "pickup_text": "Хтось викинув у 2019-му. Хтось вклав у серце. Хтось сів на цю коробку.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1360"
+    },
+    {
+      "number": 3,
+      "location_text": "Звичайне кладовище, біля пам'ятника",
+      "pickup_text": "Свіжі. Дуже свіжі. Підозріло свіжі.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1361"
+    },
+    {
+      "number": 4,
+      "location_text": "Гуртожиток, кухня",
+      "pickup_text": "У каструлі з опаришами. Не їсти. Подро все одно їсть.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1362"
+    },
+    {
+      "number": 5,
+      "location_text": "Кафе «Кодло», за стійкою",
+      "pickup_text": "Едік не пам'ятає, звідки. Едік не пам'ятає, хто. Едік пам'ятає, що не він.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1363"
+    },
+    {
+      "number": 6,
+      "location_text": "Ринок, бочка в контейнері №13",
+      "pickup_text": "Баба Валя не їсть солодке. Її бабки не їдять. Тоді кому?",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1364"
+    },
+    {
+      "number": 7,
+      "location_text": "Автостанція, бардачок Віті",
+      "pickup_text": "Вітя жує \"Рачки\" замість грошей. Платить цукерками, бере цукерками.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1365"
+    },
+    {
+      "number": 8,
+      "location_text": "Хата Хоменків, мамина шафа",
+      "pickup_text": "Мама сховала на чорний день. Чорний день лише відкладається.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1366"
+    },
+    {
+      "number": 9,
+      "location_text": "Хлібозавод, піч",
+      "pickup_text": "Піч не гріється. \"Рачки\" пересиділи революцію.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1367"
+    },
+    {
+      "number": 10,
+      "location_text": "Санаторій, палата",
+      "pickup_text": "Лікар прописав. Лікаря немає. Рецепт цілий.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1368"
+    },
+    {
+      "number": 11,
+      "location_text": "Чайхана",
+      "pickup_text": "Чайники не їдять цукерок. Це для гостей. Гості не їдять.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1369"
+    },
+    {
+      "number": 12,
+      "location_text": "Пентхаус Гранітного",
+      "pickup_text": "Гранітні \"Рачки\", вирізьблені з граніту. Їсти не радять. Він радить.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1370"
+    },
+    {
+      "number": 13,
+      "location_text": "Фургон Баристи, холдер",
+      "pickup_text": "Бариста не пояснює. Бариста римує, але не виходить.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1371"
+    },
+    {
+      "number": 14,
+      "location_text": "Вагончик у кар'єрі",
+      "pickup_text": "Календар 2003. Коробка 2003. Цукерки теж 2003. Добре тримаються.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1372"
+    },
+    {
+      "number": 15,
+      "location_text": "«Маринувальня», під ковдрою",
+      "pickup_text": "Манекен тримає коробку обома руками. Манекен ні до чого не причетний.",
+      "received_in_mission": null,
+      "source": "docs/story/missions/side_activities.md:1373"
+    }
+  ],
+  "milestones": [
+    {
+      "collected": 5,
+      "reward_text": "вибачення за один день запізнення",
+      "reward_money": null,
+      "source": "docs/story/missions/side_activities.md:1354"
+    },
+    {
+      "collected": 10,
+      "reward_text": "«залік» за практику (+5000 грн «стипендія»)",
+      "reward_money": 5000,
+      "source": "docs/story/missions/side_activities.md:1354"
+    },
+    {
+      "collected": 15,
+      "reward_text": "диплом (висить на сховці: «Хоменко П. В. З відзнакою успішно НЕ закінчив») і прощення запізнення 2019 року",
+      "reward_money": null,
+      "source": "docs/story/missions/side_activities.md:1354"
+    }
+  ]
+}

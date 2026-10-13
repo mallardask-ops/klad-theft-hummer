@@ -1,0 +1,324 @@
+{
+  "rules": [
+    {
+      "text": "Кожен список це 12 машин, які треба знайти (вкрасти) й пригнати на експорт: відкритий вагон «Коростишів — Порт» на залізничній станції (піктограма: вагон). Толік це називає «відправка на дальній склад».",
+      "source": "docs/story/missions/side_activities.md:1140"
+    },
+    {
+      "text": "Машина має бути ціла на 70%+ і не бути «розшукуваною» (без розшуку зірок на старті).",
+      "source": "docs/story/missions/side_activities.md:1141"
+    },
+    {
+      "text": "Дозволено везти по одній. Толік оплачує за тарифом.",
+      "source": "docs/story/missions/side_activities.md:1142"
+    },
+    {
+      "text": "Коли всі 12 в списку — бонус від списку й рідкісна машина в гаражі.",
+      "source": "docs/story/missions/side_activities.md:1143"
+    },
+    {
+      "text": "Імена машин народні: за прототипом (ВАЗ, Daewoo, Opel тощо) допоможуть знайти їх на вулицях; точні назви в грі можна замінити на вигадані брендові (див. суперечності).",
+      "source": "docs/story/missions/side_activities.md:1144"
+    }
+  ],
+  "delivery_location_text": "відкритий вагон «Коростишів — Порт» на залізничній станції",
+  "lists": [
+    {
+      "number": 1,
+      "title": "«ХОДОВІ» (А-I)",
+      "unlock_text": "після Т-3; Список №1: «ХОДОВІ» (А-I)",
+      "vehicles": [
+        {
+          "number": 1,
+          "name": "ВАЗ-2106 «шістка»",
+          "search_location_text": "двори П'ятиповерхівок",
+          "reward_money": 300,
+          "source": "docs/story/missions/side_activities.md:1149"
+        },
+        {
+          "number": 2,
+          "name": "ВАЗ-2107 «сімка»",
+          "search_location_text": "Приватний сектор",
+          "reward_money": 300,
+          "source": "docs/story/missions/side_activities.md:1150"
+        },
+        {
+          "number": 3,
+          "name": "ВАЗ-2109 «дев'ятка»",
+          "search_location_text": "Промзона (Сольові)",
+          "reward_money": 400,
+          "source": "docs/story/missions/side_activities.md:1151"
+        },
+        {
+          "number": 4,
+          "name": "ВАЗ-2110 «десятка»",
+          "search_location_text": "Центр біля РДА",
+          "reward_money": 450,
+          "source": "docs/story/missions/side_activities.md:1152"
+        },
+        {
+          "number": 5,
+          "name": "ВАЗ-2114 «чотирнадцята»",
+          "search_location_text": "АЗС «Тетерів», Київська",
+          "reward_money": 450,
+          "source": "docs/story/missions/side_activities.md:1153"
+        },
+        {
+          "number": 6,
+          "name": "ВАЗ-2121 «Нива»",
+          "search_location_text": "Центральний ринок",
+          "reward_money": 500,
+          "source": "docs/story/missions/side_activities.md:1154"
+        },
+        {
+          "number": 7,
+          "name": "ЗАЗ-1102 «Таврія»",
+          "search_location_text": "Гаражі",
+          "reward_money": 250,
+          "source": "docs/story/missions/side_activities.md:1155"
+        },
+        {
+          "number": 8,
+          "name": "ЗАЗ-1103 «Славута»",
+          "search_location_text": "біля ЦРЛ",
+          "reward_money": 350,
+          "source": "docs/story/missions/side_activities.md:1156"
+        },
+        {
+          "number": 9,
+          "name": "ЗАЗ Сенс «Сенс»",
+          "search_location_text": "гуртожиток педколеджу",
+          "reward_money": 350,
+          "source": "docs/story/missions/side_activities.md:1157"
+        },
+        {
+          "number": 10,
+          "name": "Daewoo Lanos «Ланос»",
+          "search_location_text": "автостанція (таксі)",
+          "reward_money": 500,
+          "source": "docs/story/missions/side_activities.md:1158"
+        },
+        {
+          "number": 11,
+          "name": "Daewoo Matiz «Матіз»",
+          "search_location_text": "біля «Гастроному»",
+          "reward_money": 300,
+          "source": "docs/story/missions/side_activities.md:1159"
+        },
+        {
+          "number": 12,
+          "name": "Москвич-2141 «Святогор»",
+          "search_location_text": "лісопилка",
+          "reward_money": 400,
+          "source": "docs/story/missions/side_activities.md:1160"
+        }
+      ],
+      "completion_reward_money": 3000,
+      "completion_reward_vehicle": "«Таврія-Ракета»",
+      "source": "docs/story/missions/side_activities.md:1161",
+      "sources": [
+        "docs/story/missions/side_activities.md:1138",
+        "docs/story/missions/side_activities.md:1146",
+        "docs/story/missions/side_activities.md:1161"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "«ЄВРОПА ПО-КОРОСТИШІВСЬКИ» (з А-II)",
+      "unlock_text": "після моста; Список №2: «ЄВРОПА ПО-КОРОСТИШІВСЬКИ» (з А-II)",
+      "vehicles": [
+        {
+          "number": 1,
+          "name": "Opel Astra F «Астра»",
+          "search_location_text": "Заріччя, ринок",
+          "reward_money": 700,
+          "source": "docs/story/missions/side_activities.md:1166"
+        },
+        {
+          "number": 2,
+          "name": "Opel Vectra A «Вектра»",
+          "search_location_text": "санаторій, парковка",
+          "reward_money": 800,
+          "source": "docs/story/missions/side_activities.md:1167"
+        },
+        {
+          "number": 3,
+          "name": "Opel Omega A «Омега»",
+          "search_location_text": "чайхана «Самовар»",
+          "reward_money": 900,
+          "source": "docs/story/missions/side_activities.md:1168"
+        },
+        {
+          "number": 4,
+          "name": "Volkswagen Golf III «Гольф»",
+          "search_location_text": "пентхаус, двір",
+          "reward_money": 800,
+          "source": "docs/story/missions/side_activities.md:1169"
+        },
+        {
+          "number": 5,
+          "name": "Volkswagen Passat B3 «Пасат-Б3»",
+          "search_location_text": "Околиці, АЗС",
+          "reward_money": 900,
+          "source": "docs/story/missions/side_activities.md:1170"
+        },
+        {
+          "number": 6,
+          "name": "Volkswagen Passat B5 «Пасат-Б5»",
+          "search_location_text": "Околиці, склади",
+          "reward_money": 1000,
+          "source": "docs/story/missions/side_activities.md:1171"
+        },
+        {
+          "number": 7,
+          "name": "Audi 80 B4 «Ауді-вісімдесят»",
+          "search_location_text": "Заріччя, двори",
+          "reward_money": 1000,
+          "source": "docs/story/missions/side_activities.md:1172"
+        },
+        {
+          "number": 8,
+          "name": "Audi 100 C4 «Сотка»",
+          "search_location_text": "кладовище пам'ятників",
+          "reward_money": 1200,
+          "source": "docs/story/missions/side_activities.md:1173"
+        },
+        {
+          "number": 9,
+          "name": "BMW 5 E34 «Пятьорка»",
+          "search_location_text": "кладовище пам'ятників",
+          "reward_money": 1200,
+          "source": "docs/story/missions/side_activities.md:1174"
+        },
+        {
+          "number": 10,
+          "name": "BMW 3 E36 «Трієшка»",
+          "search_location_text": "Околиці",
+          "reward_money": 1000,
+          "source": "docs/story/missions/side_activities.md:1175"
+        },
+        {
+          "number": 11,
+          "name": "Mercedes-Benz W124 «Мерс-124»",
+          "search_location_text": "Заріччя біля амбулаторії",
+          "reward_money": 1400,
+          "source": "docs/story/missions/side_activities.md:1176"
+        },
+        {
+          "number": 12,
+          "name": "Škoda Octavia Tour «Октавія»",
+          "search_location_text": "вагончик ДАІ",
+          "reward_money": 900,
+          "source": "docs/story/missions/side_activities.md:1177"
+        }
+      ],
+      "completion_reward_money": 6000,
+      "completion_reward_vehicle": "«Мерс-124 \"Швидка\"»",
+      "source": "docs/story/missions/side_activities.md:1178",
+      "sources": [
+        "docs/story/missions/side_activities.md:1138",
+        "docs/story/missions/side_activities.md:1163",
+        "docs/story/missions/side_activities.md:1178"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "«ЕЛІТА ЗАРІЧЧЯ» (з Ф2-2)",
+      "unlock_text": "після Ф2-2; Список №3: «ЕЛІТА ЗАРІЧЧЯ» (з Ф2-2)",
+      "vehicles": [
+        {
+          "number": 1,
+          "name": "ГАЗ-3110 «Волга»",
+          "search_location_text": "РДА (службова)",
+          "reward_money": 1500,
+          "source": "docs/story/missions/side_activities.md:1183"
+        },
+        {
+          "number": 2,
+          "name": "Mercedes-Benz W140 «Кабан»",
+          "search_location_text": "пентхаус Гранітного",
+          "reward_money": 2500,
+          "source": "docs/story/missions/side_activities.md:1184"
+        },
+        {
+          "number": 3,
+          "name": "BMW 7 E38 «Боїнг»",
+          "search_location_text": "дача Гранітного",
+          "reward_money": 2200,
+          "source": "docs/story/missions/side_activities.md:1185"
+        },
+        {
+          "number": 4,
+          "name": "Toyota Land Cruiser 100 «Крузак»",
+          "search_location_text": "кар'єр, охорона",
+          "reward_money": 2000,
+          "source": "docs/story/missions/side_activities.md:1186"
+        },
+        {
+          "number": 5,
+          "name": "Toyota Camry XV30 «Камрі»",
+          "search_location_text": "Околиці",
+          "reward_money": 1500,
+          "source": "docs/story/missions/side_activities.md:1187"
+        },
+        {
+          "number": 6,
+          "name": "Mitsubishi Pajero «Паджеро»",
+          "search_location_text": "лісгосп",
+          "reward_money": 1800,
+          "source": "docs/story/missions/side_activities.md:1188"
+        },
+        {
+          "number": 7,
+          "name": "Jeep Grand Cherokee «Чероки»",
+          "search_location_text": "база «Сіль-Союз»",
+          "reward_money": 1800,
+          "source": "docs/story/missions/side_activities.md:1189"
+        },
+        {
+          "number": 8,
+          "name": "Chrysler Voyager «Вояджер»",
+          "search_location_text": "санаторій",
+          "reward_money": 1400,
+          "source": "docs/story/missions/side_activities.md:1190"
+        },
+        {
+          "number": 9,
+          "name": "Hyundai Sonata «Соната»",
+          "search_location_text": "вагончик ДАІ",
+          "reward_money": 1200,
+          "source": "docs/story/missions/side_activities.md:1191"
+        },
+        {
+          "number": 10,
+          "name": "Mercedes-Benz G-Class «Гелік»",
+          "search_location_text": "кар'єрна дорога",
+          "reward_money": 2800,
+          "source": "docs/story/missions/side_activities.md:1192"
+        },
+        {
+          "number": 11,
+          "name": "Lexus RX300 «Лексус»",
+          "search_location_text": "Заріччя",
+          "reward_money": 1800,
+          "source": "docs/story/missions/side_activities.md:1193"
+        },
+        {
+          "number": 12,
+          "name": "Range Rover Classic «Рейндж»",
+          "search_location_text": "ліс над Тетеревом",
+          "reward_money": 2200,
+          "source": "docs/story/missions/side_activities.md:1194"
+        }
+      ],
+      "completion_reward_money": 15000,
+      "completion_reward_vehicle": "«Хаммер \"Клад\"»",
+      "source": "docs/story/missions/side_activities.md:1195",
+      "sources": [
+        "docs/story/missions/side_activities.md:1138",
+        "docs/story/missions/side_activities.md:1180",
+        "docs/story/missions/side_activities.md:1195"
+      ]
+    }
+  ]
+}

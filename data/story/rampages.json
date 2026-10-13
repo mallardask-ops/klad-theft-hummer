@@ -1,0 +1,320 @@
+{
+  "rules": [
+    {
+      "text": "Піктограма «череп із молотком» на мапі й у світі.",
+      "source": "docs/story/missions/side_activities.md:1223"
+    },
+    {
+      "text": "Підійти, натиснути «Дія».",
+      "source": "docs/story/missions/side_activities.md:1223"
+    },
+    {
+      "text": "Зброя видається на місці (як у GTA III), після завершення зникає.",
+      "source": "docs/story/missions/side_activities.md:1223"
+    },
+    {
+      "text": "Тривалість обмежена; кінцеві слова: «МОЛОТКУВАННЯ!» (успіх) або «НЕ ВИВІЗ» (час вийшов або Подро «нажал»).",
+      "source": "docs/story/missions/side_activities.md:1223"
+    },
+    {
+      "text": "Вирубати N ворогів зазначеною зброєю за час.",
+      "source": "docs/story/missions/side_activities.md:1224"
+    },
+    {
+      "text": "Ворогів «підганяє» гра: вони спавняться хвилями, не втікають.",
+      "source": "docs/story/missions/side_activities.md:1224"
+    },
+    {
+      "text": "Перехожі не рахуються й не провалюють.",
+      "source": "docs/story/missions/side_activities.md:1224"
+    },
+    {
+      "text": "Друга спроба доступна одразу.",
+      "source": "docs/story/missions/side_activities.md:1224"
+    }
+  ],
+  "rampages": [
+    {
+      "number": 1,
+      "title": "«СКОВОРІДКОВИЙ ПОНЕДІЛОК»",
+      "location_text": "Соборна площа, біля костелу",
+      "weapon_text": "сковорідка",
+      "target_text": "10 Опаришів",
+      "target_count": 10,
+      "timer_sec": 120,
+      "act": 1,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1229"
+    },
+    {
+      "number": 2,
+      "title": "«БАБУСИН ОГІРОК»",
+      "location_text": "Центральний ринок, ряди",
+      "weapon_text": "банки з огірками (кидати)",
+      "target_text": "12 Опаришів",
+      "target_count": 12,
+      "timer_sec": 105,
+      "act": 1,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1230"
+    },
+    {
+      "number": 3,
+      "title": "«ЗАКАТКА»",
+      "location_text": "Хлібозавод, Промзона",
+      "weapon_text": "молоток",
+      "target_text": "12 Опаришів на скутерах",
+      "target_count": 12,
+      "timer_sec": 150,
+      "act": 1,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1231"
+    },
+    {
+      "number": 4,
+      "title": "«ЗЕЛЕНА ПОЗИЧКА»",
+      "location_text": "Приватний сектор, двір Хоменків",
+      "weapon_text": "зелена дриль (Батька)",
+      "target_text": "8 Опаришів",
+      "target_count": 8,
+      "timer_sec": 90,
+      "act": 1,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1232"
+    },
+    {
+      "number": 5,
+      "title": "«КАСА ЛІСОПИЛКИ»",
+      "location_text": "Лісопилка",
+      "weapon_text": "бита",
+      "target_text": "10 охоронців",
+      "target_count": 10,
+      "timer_sec": 120,
+      "act": 1,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1233"
+    },
+    {
+      "number": 6,
+      "title": "«МАНГАЛ І ЛОМ»",
+      "location_text": "Гаражі",
+      "weapon_text": "лом",
+      "target_text": "9 Чайників з термосами",
+      "target_count": 9,
+      "timer_sec": 120,
+      "act": 1,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1234"
+    },
+    {
+      "number": 7,
+      "title": "«ПЛАТФОРМА НОМЕР ОДИН»",
+      "location_text": "Залізнична станція",
+      "weapon_text": "Макаров",
+      "target_text": "8 Сольових",
+      "target_count": 8,
+      "timer_sec": 90,
+      "act": 1,
+      "unlock_text": "після К-3",
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1235"
+    },
+    {
+      "number": 8,
+      "title": "«КАБАН НЕ ПРОЙДЕ»",
+      "location_text": "Київська, біля «Мисливця»",
+      "weapon_text": "обріз",
+      "target_text": "8 Сольових з «дев'яток»",
+      "target_count": 8,
+      "timer_sec": 75,
+      "act": 1,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1236"
+    },
+    {
+      "number": 9,
+      "title": "«ДВОРОВА ЛІГА»",
+      "location_text": "П'ятиповерхівки, між під'їздами",
+      "weapon_text": "кулаки",
+      "target_text": "15 Опаришів",
+      "target_count": 15,
+      "timer_sec": 180,
+      "act": 1,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1237"
+    },
+    {
+      "number": 10,
+      "title": "«САМОВАР НА ПОВНУ»",
+      "location_text": "Чайхана «Самовар», Заріччя",
+      "weapon_text": "молотов",
+      "target_text": "10 Сольових",
+      "target_count": 10,
+      "timer_sec": 90,
+      "act": 2,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1238"
+    },
+    {
+      "number": 11,
+      "title": "«БАСЕЙН БЕЗ ВОДИ»",
+      "location_text": "Санаторій «Тетерів», порожній басейн",
+      "weapon_text": "граната",
+      "target_text": "10 Сольових",
+      "target_count": 10,
+      "timer_sec": 90,
+      "act": 2,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1239"
+    },
+    {
+      "number": 12,
+      "title": "«КРАВЧУЧКИ ПРОТИ ВСІХ»",
+      "location_text": "Центральний ринок (після БВ-4)",
+      "weapon_text": "сковорідка",
+      "target_text": "12 членів Ринкової Ради (з кравчучками й парасолями)",
+      "target_count": 12,
+      "timer_sec": 150,
+      "act": 2,
+      "unlock_text": "після БВ-4",
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1240"
+    },
+    {
+      "number": 13,
+      "title": "«УЗІ-РАМПЕЙДЖ»",
+      "location_text": "База «Сіль-Союз», склади",
+      "weapon_text": "узі",
+      "target_text": "15 Сольових",
+      "target_count": 15,
+      "timer_sec": 150,
+      "act": 2,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1241"
+    },
+    {
+      "number": 14,
+      "title": "«КЛАДОВИЩЕ БЕЗ ІМЕН»",
+      "location_text": "Кладовище пам'ятників",
+      "weapon_text": "молоток",
+      "target_text": "12 Сольових серед брил",
+      "target_count": 12,
+      "timer_sec": 120,
+      "act": 2,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1242"
+    },
+    {
+      "number": 15,
+      "title": "«ПЕНТХАУС-ПОВЕРХ»",
+      "location_text": "Двір дев'ятиповерхівки Гранітного",
+      "weapon_text": "обріз",
+      "target_text": "10 Сольових, перевдягнених в асистентів",
+      "target_count": 10,
+      "timer_sec": 120,
+      "act": 2,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1243"
+    },
+    {
+      "number": 16,
+      "title": "«ВАГОНЧИКОВА ЗАЧИСТКА»",
+      "location_text": "Кар'єр, біля вагончика",
+      "weapon_text": "калаш",
+      "target_text": "12 охоронців Гранітлюкс",
+      "target_count": 12,
+      "timer_sec": 120,
+      "act": 3,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1244"
+    },
+    {
+      "number": 17,
+      "title": "«ЛІС ПІСЛЯ ВОСЬМОЇ»",
+      "location_text": "Ліс над Тетеревом (тільки після 20:00)",
+      "weapon_text": "обріз",
+      "target_text": "8 лісників",
+      "target_count": 8,
+      "timer_sec": 90,
+      "act": 3,
+      "unlock_text": "тільки після 20:00",
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1245"
+    },
+    {
+      "number": 18,
+      "title": "«КОВДРИ ЛЕТЯТЬ»",
+      "location_text": "«Маринувальня»",
+      "weapon_text": "сковорідка",
+      "target_text": "15 Сольових у ковдрах",
+      "target_count": 15,
+      "timer_sec": 150,
+      "act": 3,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1246"
+    },
+    {
+      "number": 19,
+      "title": "«ГРАНІТНІ ЛЕВИ»",
+      "location_text": "Дача Гранітного",
+      "weapon_text": "молотов",
+      "target_text": "10 охоронців",
+      "target_count": 10,
+      "timer_sec": 120,
+      "act": 3,
+      "unlock_text": null,
+      "reward_money": 1000,
+      "source": "docs/story/missions/side_activities.md:1247"
+    },
+    {
+      "number": 20,
+      "title": "«ПРИМУСОВЕ ОХОЛОДЖЕННЯ»",
+      "location_text": "Насосна станція №2, біля озера",
+      "weapon_text": "узі + граната",
+      "target_text": "20 Сольових",
+      "target_count": 20,
+      "timer_sec": 210,
+      "act": 3,
+      "unlock_text": null,
+      "reward_money": 5000,
+      "source": "docs/story/missions/side_activities.md:1248"
+    }
+  ],
+  "milestones": [
+    {
+      "completed": 5,
+      "reward_text": "на кожній сховці додається стійка з бронежилетом (раз на добу)",
+      "source": "docs/story/missions/side_activities.md:1225"
+    },
+    {
+      "completed": 10,
+      "reward_text": "Подро замахується молотком швидше на 15%",
+      "source": "docs/story/missions/side_activities.md:1225"
+    },
+    {
+      "completed": 15,
+      "reward_text": "сковорідка й узі отримують +50% збитку",
+      "source": "docs/story/missions/side_activities.md:1225"
+    },
+    {
+      "completed": 20,
+      "reward_text": "бейдж «МОЛОТКУВАННЯ» і 20 000 грн",
+      "source": "docs/story/missions/side_activities.md:1225"
+    }
+  ]
+}

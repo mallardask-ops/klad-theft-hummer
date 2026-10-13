@@ -1,0 +1,175 @@
+{
+  "unlock_text": "Вудку Брат віддає при Б-1 («Ти обіцяв»).",
+  "rules": [
+    {
+      "text": "Підійти до будь-якого пірса (піктограма: вудка) із вудкою від Брата.",
+      "source": "docs/story/missions/side_activities.md:1064"
+    },
+    {
+      "text": "Якщо вудку зламано (Б-3), Дід Жора видає запасну: «ТІЛЬКИ ПОВЕРНИ!».",
+      "source": "docs/story/missions/side_activities.md:1064"
+    },
+    {
+      "text": "Закид: тримаєш кнопку, шкала сили, відпускаєш у зоні.",
+      "source": "docs/story/missions/side_activities.md:1066"
+    },
+    {
+      "text": "Очікування: поплавок. Поки чекаєш, іде аудіо-історія Брата по телефону («довгі нудні історії» про кота, серіал, сусіда: 20–40 секунд, 24 різні). Якщо Подро кине вудку й піде, історія обривається.",
+      "source": "docs/story/missions/side_activities.md:1067"
+    },
+    {
+      "text": "Поклювання: поплавок смикає; натиснути вчасно (вікно 0,7 с).",
+      "source": "docs/story/missions/side_activities.md:1068"
+    },
+    {
+      "text": "Виважування: шкала «натяг» (не рвати, не відпускати), 5–20 секунд залежно від риби.",
+      "source": "docs/story/missions/side_activities.md:1069"
+    },
+    {
+      "text": "Наживка: хліб, черв'як, кукурудза, прикормка «Голд» (залишки кави; приваблює коропів, відлякує окунів). Для сома потрібна «Блешня Кащєя» (КЩ-6).",
+      "source": "docs/story/missions/side_activities.md:1070"
+    },
+    {
+      "text": "Місця: пірс біля моста (Центр), під мостом (Дід Жора), пірс біля санаторію (А-II), затока кар'єру (А-III), лісовий закрут (А-III).",
+      "source": "docs/story/missions/side_activities.md:1071"
+    },
+    {
+      "text": "Час доби впливає на види. Журнал «Рибальський журнал» записує спійману рибу, Брат підписує поруч дату й каракулі.",
+      "source": "docs/story/missions/side_activities.md:1072"
+    },
+    {
+      "text": "яма під мостом, тільки 03:00–04:00",
+      "source": "docs/story/missions/side_activities.md:1088"
+    },
+    {
+      "text": "11 видів: Сом стає доступним (вистава «Сорок»).",
+      "source": "docs/story/missions/side_activities.md:1093"
+    }
+  ],
+  "fish": [
+    {
+      "number": 1,
+      "name": "Карась",
+      "place_time_text": "будь-де, ранок",
+      "bait_text": "хліб",
+      "description": "Мовчить, а потім раз і клює. Брат вважає його найкращим ловцем душ.",
+      "source": "docs/story/missions/side_activities.md:1077"
+    },
+    {
+      "number": 2,
+      "name": "Плітка",
+      "place_time_text": "пірс біля моста",
+      "bait_text": "хліб",
+      "description": "Дрібна й скромна. Як записка Кащєя: небагато слів, але все по суті.",
+      "source": "docs/story/missions/side_activities.md:1078"
+    },
+    {
+      "number": 3,
+      "name": "Краснопірка",
+      "place_time_text": "мілина біля санаторію",
+      "bait_text": "черв'як",
+      "description": "Червоні плавники, нахабний вигляд. Нагадує Опариша в білому худі, тільки смачніша.",
+      "source": "docs/story/missions/side_activities.md:1079"
+    },
+    {
+      "number": 4,
+      "name": "Окунь",
+      "place_time_text": "під мостом, день",
+      "bait_text": "черв'як",
+      "description": "Смугастий і колючий. Ходить зграєю, як Чайники в сорочках.",
+      "source": "docs/story/missions/side_activities.md:1080"
+    },
+    {
+      "number": 5,
+      "name": "Йорж",
+      "place_time_text": "під мостом, ніч",
+      "bait_text": "черв'як",
+      "description": "Голова більша за все інше. Ніколи не думає, але завжди впевнений.",
+      "source": "docs/story/missions/side_activities.md:1081"
+    },
+    {
+      "number": 6,
+      "name": "В'юн",
+      "place_time_text": "кар'єр, мілкий берег",
+      "bait_text": "черв'як",
+      "description": "Слизький. Щойно взяв, уже вислизнув. Типовий капітан Пилипчук.",
+      "source": "docs/story/missions/side_activities.md:1082"
+    },
+    {
+      "number": 7,
+      "name": "Лящ",
+      "place_time_text": "затока кар'єру, вечір",
+      "bait_text": "кукурудза",
+      "description": "Плоский і поважний. Береже спокій у глибині. Будять його тільки хлібом і зневагою.",
+      "source": "docs/story/missions/side_activities.md:1083"
+    },
+    {
+      "number": 8,
+      "name": "Лин",
+      "place_time_text": "лісовий закрут, ніч",
+      "bait_text": "кукурудза",
+      "description": "Лікар річки. Мовчить, як Подро, тому вони розуміють один одного.",
+      "source": "docs/story/missions/side_activities.md:1084"
+    },
+    {
+      "number": 9,
+      "name": "Короп",
+      "place_time_text": "санаторій, день",
+      "bait_text": "«Голд»",
+      "description": "Любить цукор. Цукор ПЕТРО йому не подобається («солоно»). Це перший клієнт, що розрізнив.",
+      "source": "docs/story/missions/side_activities.md:1085"
+    },
+    {
+      "number": 10,
+      "name": "Щука",
+      "place_time_text": "кар'єр, світанок",
+      "bait_text": "блешня",
+      "description": "Зубата, самотня. Каже: «Нічого особистого».",
+      "source": "docs/story/missions/side_activities.md:1086"
+    },
+    {
+      "number": 11,
+      "name": "Жерех",
+      "place_time_text": "Тетерів під мостом, швидка течія",
+      "bait_text": "блешня",
+      "description": "Швидкий, як Опариш на скутері, тільки обережніший. Дід Жора вважає, що жерех це просто щука на колесах.",
+      "source": "docs/story/missions/side_activities.md:1087"
+    },
+    {
+      "number": 12,
+      "name": "Сом «Сорок»",
+      "place_time_text": "яма під мостом, тільки 03:00–04:00",
+      "bait_text": "Блешня Кащєя",
+      "description": "Легендарний, 40 кг. Лежить на дні ями з часів «Таврії-93». Усі кажуть, що його нема. Брат каже: «Петя обіцяв перевірити».",
+      "source": "docs/story/missions/side_activities.md:1088"
+    }
+  ],
+  "milestones": [
+    {
+      "species_caught": 4,
+      "reward_text": "Брат дзвонить «Я просто подзвонив. Ти ж ловиш. Я чув.» і дарує нову наживку.",
+      "source": "docs/story/missions/side_activities.md:1091"
+    },
+    {
+      "species_caught": 8,
+      "reward_text": "Дід Жора дарує вудку «Жорина» (виважування легше).",
+      "source": "docs/story/missions/side_activities.md:1092"
+    },
+    {
+      "species_caught": 11,
+      "reward_text": "Сом стає доступним (вистава «Сорок»).",
+      "source": "docs/story/missions/side_activities.md:1093"
+    },
+    {
+      "species_caught": 12,
+      "reward_text": "Брат щасливий. У фіналі епілогу (рибалка на Тетереві) Брат замість звичайного «Карась — він як ти, Петю...» каже: «Я тобі казав: сом є. Ти не просто обіцяв, Петю. Ти ще й перевірив.» Подро мовчить, і в кадрі вперше лунає не «Почув», а «Дякую» (перед довгим реченням).",
+      "source": "docs/story/missions/side_activities.md:1094",
+      "sources": [
+        "docs/story/missions/side_activities.md:1094",
+        "docs/story/missions/act3_finale.md:604",
+        "docs/story/missions/act3_finale.md:605",
+        "docs/story/characters.md:60"
+      ]
+    }
+  ]
+}

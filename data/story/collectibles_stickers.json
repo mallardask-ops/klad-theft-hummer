@@ -1,0 +1,304 @@
+{
+  "total": 30,
+  "remove_hold_sec": 3,
+  "rules": [
+    {
+      "text": "№1–5 — ті п'ять, які Подро наліпив на бобіки у В-3. Вони вже «в грі» з моменту В-3 (за CANON.md). Зірвати їх можна лише з бобіка, що стоїть нерухомо (двір райвідділу, патрульні точки); дільничний за це не обурюється (він не бачить), але перехожі зітхають.",
+      "source": "docs/story/missions/side_activities.md:1393"
+    },
+    {
+      "text": "Біля наліпок на території «Сіль-Союзу» (№28) чергують Сольові.",
+      "source": "docs/story/missions/side_activities.md:1394"
+    },
+    {
+      "text": "Кожна зірвана наліпка лишає на місці білий пухкий слід; ватермарк на скріншотах (після ПФ-5) зникає поступово.",
+      "source": "docs/story/missions/side_activities.md:1395"
+    }
+  ],
+  "items": [
+    {
+      "number": 1,
+      "location_text": "п'ять бобіків із В-3 (двір райвідділу, патрульні точки)",
+      "district_text": "Центр",
+      "placed_in_mission": "В-3",
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1401"
+    },
+    {
+      "number": 2,
+      "location_text": "п'ять бобіків із В-3 (двір райвідділу, патрульні точки)",
+      "district_text": "Центр",
+      "placed_in_mission": "В-3",
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1401"
+    },
+    {
+      "number": 3,
+      "location_text": "п'ять бобіків із В-3 (двір райвідділу, патрульні точки)",
+      "district_text": "Центр",
+      "placed_in_mission": "В-3",
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1401"
+    },
+    {
+      "number": 4,
+      "location_text": "п'ять бобіків із В-3 (двір райвідділу, патрульні точки)",
+      "district_text": "Центр",
+      "placed_in_mission": "В-3",
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1401"
+    },
+    {
+      "number": 5,
+      "location_text": "п'ять бобіків із В-3 (двір райвідділу, патрульні точки)",
+      "district_text": "Центр",
+      "placed_in_mission": "В-3",
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1401"
+    },
+    {
+      "number": 6,
+      "location_text": "лавка біля «Гастроному»",
+      "district_text": "П'ятиповерхівки",
+      "placed_in_mission": null,
+      "required_in_dm4": true,
+      "source": "docs/story/missions/side_activities.md:1402"
+    },
+    {
+      "number": 7,
+      "location_text": "турнік у дворі",
+      "district_text": "П'ятиповерхівки",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1403"
+    },
+    {
+      "number": 8,
+      "location_text": "хвіртка Хоменків",
+      "district_text": "Приватний сектор",
+      "placed_in_mission": null,
+      "required_in_dm4": true,
+      "source": "docs/story/missions/side_activities.md:1404"
+    },
+    {
+      "number": 9,
+      "location_text": "колодязь-журавель біля хати Баби Валі",
+      "district_text": "Приватний сектор",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1405"
+    },
+    {
+      "number": 10,
+      "location_text": "стовп біля автостанції",
+      "district_text": "Київська",
+      "placed_in_mission": null,
+      "required_in_dm4": true,
+      "source": "docs/story/missions/side_activities.md:1406"
+    },
+    {
+      "number": 11,
+      "location_text": "двері маршрутки №7",
+      "district_text": "Київська",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1407"
+    },
+    {
+      "number": 12,
+      "location_text": "кіоск із пиріжками",
+      "district_text": "Київська",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1408"
+    },
+    {
+      "number": 13,
+      "location_text": "АЗС «Тетерів»",
+      "district_text": "Київська",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1409"
+    },
+    {
+      "number": 14,
+      "location_text": "двері гаража Кібера",
+      "district_text": "Гаражі",
+      "placed_in_mission": null,
+      "required_in_dm4": true,
+      "source": "docs/story/missions/side_activities.md:1410"
+    },
+    {
+      "number": 15,
+      "location_text": "бокс Толіка",
+      "district_text": "Гаражі",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1411"
+    },
+    {
+      "number": 16,
+      "location_text": "хлібозавод, під графіті «ПОДРО»",
+      "district_text": "Промзона",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1412"
+    },
+    {
+      "number": 17,
+      "location_text": "лісопилка, на циркулярці",
+      "district_text": "Промзона",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1413"
+    },
+    {
+      "number": 18,
+      "location_text": "вагон на станції",
+      "district_text": "Станція",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1414"
+    },
+    {
+      "number": 19,
+      "location_text": "двері кімнати Подріни (торпеди підпирають)",
+      "district_text": "Гуртожиток",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1415"
+    },
+    {
+      "number": 20,
+      "location_text": "пам'ятник на Соборній площі",
+      "district_text": "Центр",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1416"
+    },
+    {
+      "number": 21,
+      "location_text": "двері РДА",
+      "district_text": "Центр",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1417"
+    },
+    {
+      "number": 22,
+      "location_text": "двері ЦРЛ",
+      "district_text": "Центр",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1418"
+    },
+    {
+      "number": 23,
+      "location_text": "вагончик ДАІ на східному кінці мосту",
+      "district_text": "Заріччя",
+      "placed_in_mission": null,
+      "required_in_dm4": true,
+      "source": "docs/story/missions/side_activities.md:1419"
+    },
+    {
+      "number": 24,
+      "location_text": "порожній басейн санаторію",
+      "district_text": "Заріччя",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1420"
+    },
+    {
+      "number": 25,
+      "location_text": "самовар у дворі чайхани",
+      "district_text": "Заріччя",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1421"
+    },
+    {
+      "number": 26,
+      "location_text": "дев'ятиповерхівка Гранітного, під'їзд",
+      "district_text": "Околиці",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1422"
+    },
+    {
+      "number": 27,
+      "location_text": "кладовище пам'ятників, на погруддя",
+      "district_text": "Околиці",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1423"
+    },
+    {
+      "number": 28,
+      "location_text": "ворота бази «Сіль-Союз»",
+      "district_text": "Околиці",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1424"
+    },
+    {
+      "number": 29,
+      "location_text": "вагончик у кар'єрі",
+      "district_text": "Кар'єр",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1425"
+    },
+    {
+      "number": 30,
+      "location_text": "«Маринувальня», на ковдрі",
+      "district_text": "Ліс",
+      "placed_in_mission": null,
+      "required_in_dm4": false,
+      "source": "docs/story/missions/side_activities.md:1426"
+    }
+  ],
+  "messages": [
+    {
+      "collected": 5,
+      "text": "Ви зірвали 5 моїх наліпок. Це кримінально. Штраф 5 грн. Powered by PODROID.",
+      "source": "docs/story/missions/side_activities.md:1429"
+    },
+    {
+      "collected": 10,
+      "text": "10. Хтось має терміново до психолога. Не я. У мене нема. Powered by PODROID.",
+      "source": "docs/story/missions/side_activities.md:1430"
+    },
+    {
+      "collected": 15,
+      "text": "Я не ображаюсь. Я рахую. 15. Powered by PODROID.",
+      "source": "docs/story/missions/side_activities.md:1431"
+    },
+    {
+      "collected": 20,
+      "text": "Це не наліпки. Це я. Ти зриваєш мене по частинах. Це особисте. Powered by PODROID.",
+      "source": "docs/story/missions/side_activities.md:1432"
+    },
+    {
+      "collected": 25,
+      "text": "Петре. Припини. Це мої очі. Powered by PODROID.",
+      "source": "docs/story/missions/side_activities.md:1433"
+    },
+    {
+      "collected": 30,
+      "text": "Образа зарахована. Штрафи за запізнення скасовано. Ти виграв, Петре. Поки що. Powered by PODROID.",
+      "source": "docs/story/missions/side_activities.md:1434"
+    }
+  ],
+  "milestones": [
+    {
+      "collected": 15,
+      "reward_text": "ватермарк «PODROID» на скріншотах більше не з'являється (зникає після ПФ-5)",
+      "source": "docs/story/missions/side_activities.md:1436"
+    },
+    {
+      "collected": 30,
+      "reward_text": "Подроїд більше не штрафує (місії, де є штраф за запізнення: сума не знижується; у коротких повідомленнях замість «Штраф» пишуть «Образа»). Також Подро отримує наліпку «ТВЕРДІ.» для особистого використання (клеїть на машини)",
+      "source": "docs/story/missions/side_activities.md:1436"
+    }
+  ]
+}

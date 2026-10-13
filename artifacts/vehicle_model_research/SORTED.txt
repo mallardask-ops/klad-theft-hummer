@@ -1,0 +1,17 @@
+  20  cars/kenney
+   5  vehicles/karts
+   8  vehicles/wheels
+  17  props/debris
+  25  vehicles/boats
+   8  vehicles/ships
+   3  props/containers water
+  10  props/water_misc
+   4  props/boxes
+ 139  props/factory_rest
+  11  props/signs
+  23  props/barriers
+   6  props/traffic_lights
+  55  props/roads
+   3  props/shipping_containers
+  20  props/industrial_buildings
+  14  props/industrial_misc

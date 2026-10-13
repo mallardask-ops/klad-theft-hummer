@@ -1,0 +1,171 @@
+{
+  "total": 100,
+  "groups": [
+    {
+      "name": "П'ятиповерхівки",
+      "count": 10,
+      "hiding_examples_text": "сушка білизни, турнік, під лавкою, дах гаража, у баку для сміття",
+      "pickup_text": "Пачка №3. Лежала на білизні. Білизна була чистіша.",
+      "source": "docs/story/missions/side_activities.md:1316"
+    },
+    {
+      "name": "Приватний сектор",
+      "count": 10,
+      "hiding_examples_text": "у скворечнику, у погребі, за дровами, у собачій будці",
+      "pickup_text": "Пачка №14. Пес не віддавав. Віддав.",
+      "source": "docs/story/missions/side_activities.md:1317"
+    },
+    {
+      "name": "Центр",
+      "count": 10,
+      "hiding_examples_text": "на ґанку РДА, на костелі, під пам'ятником, у ЦРЛ у прийомній",
+      "pickup_text": "Пачка №22. Поклав хтось дуже серйозний.",
+      "source": "docs/story/missions/side_activities.md:1318"
+    },
+    {
+      "name": "Ринок",
+      "count": 10,
+      "hiding_examples_text": "під прилавком, у ящику з цибулею, в бабусиної кравчучки, у контейнері №13",
+      "pickup_text": "Пачка №35. Баба Валя про неї не знає. Вона знає все, тому вдає.",
+      "source": "docs/story/missions/side_activities.md:1319"
+    },
+    {
+      "name": "Київська",
+      "count": 10,
+      "hiding_examples_text": "на АЗС, у шиферному навісі, у траншеї, на даху кіоска",
+      "pickup_text": "Пачка №41. Під шифером. Теж валюта.",
+      "source": "docs/story/missions/side_activities.md:1320"
+    },
+    {
+      "name": "Промзона і Гаражі",
+      "count": 10,
+      "hiding_examples_text": "на хлібозаводі, в лісопилці, на кабіні крана, у боксі Толіка",
+      "pickup_text": "Пачка №52. Тут пахне мастилом. Голд теж.",
+      "source": "docs/story/missions/side_activities.md:1321"
+    },
+    {
+      "name": "Станція і гуртожиток",
+      "count": 10,
+      "hiding_examples_text": "у вагоні, у довгому коридорі, в каструлі з опаришами",
+      "pickup_text": "Пачка №63. Лежала поруч із торпедами. Торпеди тримали двері.",
+      "source": "docs/story/missions/side_activities.md:1322"
+    },
+    {
+      "name": "Заріччя",
+      "count": 10,
+      "hiding_examples_text": "чайхана (вкрай рідкісна), басейн санаторію, кіно «Тетерів», вагончик ДАІ",
+      "pickup_text": "Пачка №74. У чайхані. Петро не помітив. Або помітив і мовчить.",
+      "source": "docs/story/missions/side_activities.md:1323"
+    },
+    {
+      "name": "Околиці",
+      "count": 10,
+      "hiding_examples_text": "пентхаус, кладовище пам'ятників, база «Сіль-Союз», склади",
+      "pickup_text": "Пачка №85. Біля солі. Різниця помітна.",
+      "source": "docs/story/missions/side_activities.md:1324"
+    },
+    {
+      "name": "Кар'єр і ліс",
+      "count": 10,
+      "hiding_examples_text": "під водою, на скелях, у лісових ковдрах, у насосній",
+      "pickup_text": "Пачка №96. Лежить у кружці з щербиною. Кружка твоя.",
+      "source": "docs/story/missions/side_activities.md:1325"
+    }
+  ],
+  "hints": [
+    {
+      "text": "До К-5 пачка видна лише за 20 м (шурхіт фольги, блиск).",
+      "source": "docs/story/missions/side_activities.md:1308"
+    },
+    {
+      "text": "Після К-5 Samsung показує пачки на радарі в радіусі 150 м.",
+      "source": "docs/story/missions/side_activities.md:1309"
+    },
+    {
+      "text": "Кащєй після КЩ-1 «показує» в сторону найближчої пачки (раз на добу).",
+      "source": "docs/story/missions/side_activities.md:1310"
+    },
+    {
+      "text": "Павло після ДМ-4 каже на KodloCAST, де було б «логічно сховати Голд» (нічого не стверджує).",
+      "source": "docs/story/missions/side_activities.md:1311"
+    }
+  ],
+  "milestones": [
+    {
+      "collected": 10,
+      "reward_item": "сковорідка",
+      "reward_money": null,
+      "condition_text": null,
+      "source": "docs/story/missions/side_activities.md:1330"
+    },
+    {
+      "collected": 20,
+      "reward_item": "бейсбольна бита",
+      "reward_money": null,
+      "condition_text": null,
+      "source": "docs/story/missions/side_activities.md:1331"
+    },
+    {
+      "collected": 30,
+      "reward_item": "лом",
+      "reward_money": null,
+      "condition_text": null,
+      "source": "docs/story/missions/side_activities.md:1332"
+    },
+    {
+      "collected": 40,
+      "reward_item": "узі",
+      "reward_money": null,
+      "condition_text": "Уперше Подро бере його в схованці Пилипчука (ПП-5). Після цього узі продається в «Мисливці». 40 пачок Голду кладуть узі на сховки безкоштовно.",
+      "source": "docs/story/missions/side_activities.md:1333",
+      "sources": [
+        "docs/story/missions/side_activities.md:1333",
+        "docs/story/CANON.md:81"
+      ]
+    },
+    {
+      "collected": 50,
+      "reward_item": "Макаров",
+      "reward_money": null,
+      "condition_text": null,
+      "source": "docs/story/missions/side_activities.md:1334"
+    },
+    {
+      "collected": 60,
+      "reward_item": "обріз",
+      "reward_money": null,
+      "condition_text": null,
+      "source": "docs/story/missions/side_activities.md:1335"
+    },
+    {
+      "collected": 70,
+      "reward_item": "калаш",
+      "reward_money": null,
+      "condition_text": null,
+      "source": "docs/story/missions/side_activities.md:1336"
+    },
+    {
+      "collected": 80,
+      "reward_item": "молотов",
+      "reward_money": null,
+      "condition_text": null,
+      "source": "docs/story/missions/side_activities.md:1337"
+    },
+    {
+      "collected": 90,
+      "reward_item": "граната",
+      "reward_money": null,
+      "condition_text": null,
+      "source": "docs/story/missions/side_activities.md:1338"
+    },
+    {
+      "collected": 100,
+      "reward_item": "Золотий молоток",
+      "reward_money": 1000000,
+      "condition_text": null,
+      "source": "docs/story/missions/side_activities.md:1339"
+    }
+  ],
+  "golden_hammer_text": "Зовні як звичайний, але головка золота. Б'є сильніше на 25%, звук удару як дзвін, нічого не ламається. Подро дивиться на нього довго, потім переставляє ручку в руці.",
+  "golden_hammer_source": "docs/story/missions/side_activities.md:1341"
+}
