@@ -1,0 +1,68 @@
+{
+  "machine_checks": "PASS",
+  "title": "Великий Кладій Закладок",
+  "files": [
+    {
+      "file": "assets/ui/cast_poster.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "decode": "PASS",
+      "white_background_samples": "PASS"
+    },
+    {
+      "file": "assets/ui/cast_poster_tall.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "decode": "PASS",
+      "white_background_samples": "PASS"
+    },
+    {
+      "file": "assets/ui/cast_poster_notext.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "decode": "PASS",
+      "white_background_samples": "PASS"
+    },
+    {
+      "file": "assets/ui/cast_poster_tall_notext.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "decode": "PASS",
+      "white_background_samples": "PASS"
+    },
+    {
+      "file": "assets/ui/game_logo.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decode": "PASS",
+      "alpha_range": [
+        0,
+        254
+      ]
+    }
+  ],
+  "visual_review": {
+    "exact_title_words_checked": true,
+    "title_on_both_posters": true,
+    "three_line_white_black_gta_style": true,
+    "twelve_characters_present_in_each": true,
+    "no_faces_or_key_props_covered_by_logo": true
+  },
+  "generator": "built-in imagegen",
+  "prompts": "LOGO_PROMPTS.json"
+}

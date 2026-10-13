@@ -1,0 +1,134 @@
+{
+  "result": "PASS",
+  "recorded_sources": 14,
+  "verified_recorded_outputs": 17,
+  "checks": [
+    "source SHA-256",
+    "runtime equals processed recording SHA-256 after full generator run",
+    "nonempty PCM16",
+    "no clipping",
+    "audible RMS",
+    "radio headroom"
+  ],
+  "outputs": [
+    {
+      "name": "step_gravel",
+      "seconds": 0.48,
+      "channels": 1,
+      "peak": 0.65,
+      "rms": 0.0415
+    },
+    {
+      "name": "step_gravel_2",
+      "seconds": 0.5,
+      "channels": 1,
+      "peak": 0.65,
+      "rms": 0.0452
+    },
+    {
+      "name": "step",
+      "seconds": 0.32,
+      "channels": 1,
+      "peak": 0.67,
+      "rms": 0.0402
+    },
+    {
+      "name": "step_concrete_2",
+      "seconds": 0.32,
+      "channels": 1,
+      "peak": 0.67,
+      "rms": 0.0248
+    },
+    {
+      "name": "swing",
+      "seconds": 0.7,
+      "channels": 1,
+      "peak": 0.6,
+      "rms": 0.0671
+    },
+    {
+      "name": "impact",
+      "seconds": 0.7,
+      "channels": 1,
+      "peak": 0.78,
+      "rms": 0.1805
+    },
+    {
+      "name": "hammer_metal",
+      "seconds": 0.78,
+      "channels": 1,
+      "peak": 0.78,
+      "rms": 0.1089
+    },
+    {
+      "name": "crash",
+      "seconds": 1.24,
+      "channels": 1,
+      "peak": 0.76,
+      "rms": 0.0174
+    },
+    {
+      "name": "door",
+      "seconds": 0.49002267573696145,
+      "channels": 1,
+      "peak": 0.74,
+      "rms": 0.0788
+    },
+    {
+      "name": "engine",
+      "seconds": 7.750022675736961,
+      "channels": 1,
+      "peak": 0.66,
+      "rms": 0.1494
+    },
+    {
+      "name": "siren",
+      "seconds": 5.88,
+      "channels": 1,
+      "peak": 0.58,
+      "rms": 0.1926
+    },
+    {
+      "name": "ambience",
+      "seconds": 19.2,
+      "channels": 2,
+      "peak": 0.5,
+      "rms": 0.0751
+    },
+    {
+      "name": "river",
+      "seconds": 19.2,
+      "channels": 2,
+      "peak": 0.48,
+      "rms": 0.0067
+    },
+    {
+      "name": "wind",
+      "seconds": 19.2,
+      "channels": 2,
+      "peak": 0.4,
+      "rms": 0.0249
+    },
+    {
+      "name": "radio_static",
+      "seconds": 1.3,
+      "channels": 1,
+      "peak": 0.5,
+      "rms": 0.0566
+    },
+    {
+      "name": "birds",
+      "seconds": 19.2,
+      "channels": 2,
+      "peak": 0.4,
+      "rms": 0.0239
+    },
+    {
+      "name": "hurt",
+      "seconds": 0.23002267573696145,
+      "channels": 1,
+      "peak": 0.65,
+      "rms": 0.1161
+    }
+  ]
+}

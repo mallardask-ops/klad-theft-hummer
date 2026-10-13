@@ -1,0 +1,60 @@
+{
+  "machine_checks": "PASS",
+  "files": [
+    {
+      "file": "assets/ui/cast_poster.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "top_background_samples": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "decode": "PASS"
+    },
+    {
+      "file": "assets/ui/cast_poster_tall.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "top_background_samples": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255
+        ]
+      ],
+      "decode": "PASS"
+    }
+  ],
+  "visual_review": {
+    "character_count": 12,
+    "mandatory_1_to_10_present": true,
+    "all_12_distinct_faces_present": true,
+    "no_text_or_logos_observed": true,
+    "no_scenery_or_floor": true,
+    "downward_hammer": true,
+    "espresso_portafilter": true,
+    "same_cast_in_both_formats": true
+  },
+  "generator": "built-in imagegen",
+  "technical_export": "ImageMagick normalized nearly-white outer connected background to pure white; artwork preserved",
+  "references_and_prompts": "PROMPTS.json"
+}

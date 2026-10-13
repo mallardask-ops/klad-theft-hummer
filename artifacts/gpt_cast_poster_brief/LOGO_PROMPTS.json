@@ -1,0 +1,31 @@
+{
+  "title": "Великий Кладій Закладок",
+  "generator": "built-in imagegen",
+  "logo": {
+    "file": "assets/ui/game_logo.png",
+    "prompt": "Use case: logo-brand. Create a standalone transparent PNG TYPOGRAPHIC GAME LOGO, inspired by the original Grand Theft Auto III (2001) title lettering: extremely bold chunky closely packed block letters, distinctive square rounded counters, firm black thick outlines, clean flat WHITE letter faces, tight stacked title silhouette, readable and confident. This is an original Ukrainian game title, not the GTA logo itself.\nThe title must contain EXACTLY these THREE lines, verbatim with Cyrillic letters and this capitalization:\nВеликий\nКладій\nЗакладок\nNo quote marks. Spell carefully: В-е-л-и-к-и-й ; К-л-а-д-і-й ; З-а-к-л-а-д-о-к. Preserve the Ukrainian letter і and the breve over й. No Latin substitutions or omitted characters. Every line fully readable, aligned as one compact stacked mark; lowest line is widest, top line slightly less wide, middle line narrower. Uniform letter height and contour weight. Approximate compact mark width-to-height ratio 1.7–1.9, three close rows without decorative dividers. A slight characteristic compressed chunky GTA-era lettering feel, but no copying the English game name. Logo fill PURE WHITE, stroke PURE BLACK, no gradients, no glow, no gloss, no texture, no 3D bevel, no shadows beyond solid black outline. No people, weapons, hammers, symbols, numbers, subtitle, Rockstar emblem or other logo, no extra words. Entire logo isolated on GENUINE transparent background with 10% padding and transparent letter counters. Canvas landscape 1536×1024. Production overlay asset for dark clothing at bottom centre of character posters.",
+    "transparent_background": true
+  },
+  "posters": [
+    {
+      "file": "assets/ui/cast_poster.png",
+      "source": "assets/ui/cast_poster_notext.png",
+      "logo": "assets/ui/game_logo.png",
+      "prompt": "Use case: compositing. Input image 1 is the completed twelve-character poster EDIT TARGET. Input image 2 is the exact transparent game TITLE LOGO to add. Copy that logo faithfully as a clean flat overlay; preserve the logo lettering verbatim, case, Cyrillic і and й, line order, proportions, white letter faces and thick black outline. Exact title: 'Великий Кладій Закладок', in three lines as in image 2. No extra words, numbers, subtitles, GTA or Rockstar branding.\nPreserve EVERY existing character face, pose, expression, clothing, hand, prop, foreground overlap and pure white background EXACTLY. All twelve characters remain unchanged. Do not redraw, restyle or rearrange the cast. Podro still looks down, his single hammer points down, white shopping bag stays at right. The ONLY visual change is the logo over the plain lower charcoal jacket at bottom centre. No glow, texture, gradient, shadow, panel, border box or added illustration. Keep transparent counters in letters and use the black outline to maintain contrast. No logo over faces, heads, hammer, bag, hands or officer's briefcase. The whole logo stays within canvas.\nOutput exact landscape 1536×1024. Place the logo centered horizontally around x=740, with approximately 440px total visible width, fitting the lower jacket area x=520..960, y=755..1008. Keep the exact aspect ratio of the source logo; do not squash letters. Leave about 20px margin to bottom. It must be big and readable like a GTA cover logo, clean three-line stack on Podro's plain jacket.",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "file": "assets/ui/cast_poster_tall.png",
+      "source": "assets/ui/cast_poster_tall_notext.png",
+      "logo": "assets/ui/game_logo.png",
+      "prompt": "Use case: compositing. Input image 1 is the completed twelve-character poster EDIT TARGET. Input image 2 is the exact transparent game TITLE LOGO to add. Copy that logo faithfully as a clean flat overlay; preserve the logo lettering verbatim, case, Cyrillic і and й, line order, proportions, white letter faces and thick black outline. Exact title: 'Великий Кладій Закладок', in three lines as in image 2. No extra words, numbers, subtitles, GTA or Rockstar branding.\nPreserve EVERY existing character face, pose, expression, clothing, hand, prop, foreground overlap and pure white background EXACTLY. All twelve characters remain unchanged. Do not redraw, restyle or rearrange the cast. Podro still looks down, his single hammer points down, white shopping bag stays at right. The ONLY visual change is the logo over the plain lower charcoal jacket at bottom centre. No glow, texture, gradient, shadow, panel, border box or added illustration. Keep transparent counters in letters and use the black outline to maintain contrast. No logo over faces, heads, hammer, bag, hands or officer's briefcase. The whole logo stays within canvas.\nOutput exact portrait 1024×1536. Place the same logo centered horizontally at x=512, approximately 430px total visible width, in the lower jacket area x=297..727, y=1250..1508. Keep source logo aspect ratio; do not squash letters. Leave about 28px margin to bottom. Make title clear and proportionate to the portrait cover, clean three-line stack.",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ]
+}

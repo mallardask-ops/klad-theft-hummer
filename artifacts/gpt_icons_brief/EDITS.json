@@ -1,0 +1,10 @@
+{
+  "generator": "built-in imagegen",
+  "edits": [
+    {
+      "file": "sheet_c_activities.png",
+      "prompt": "Use case: precise-object-edit. Edit this transparent 4×4 GTA III radar activity sprite sheet, preserving its grid, positions, scale, simple black contours, palette, transparent background and ALL other icons exactly. Change ONLY (A) row 2 column 2 cliffjump icon: the jumping human must have SOLID PALE CREAM #F1D78D fill and a thick black outline so it reads against dark maps, keep the same pose, cliff and two blue waves; make the waves clean solid flat shapes with black contour, no transparency speckles inside. (B) row 1 column 4 delivery icon: replace the ceramic mug with a plain tapered TAKEAWAY PAPER COFFEE CUP with a black lid, ochre sleeve and the SAME two cream wings. This should match the other coffee service symbol and have no handle. All nine occupied cells stay in original order. No detail, texture, gloss, extra colors, lettering, drawn grid or background. Keep all remaining 7 cells empty transparent. Exact 1024×1024 output with 256×256 cells if possible."
+    }
+  ],
+  "export": "ImageMagick crop, fit and center into exact cells; no recoloring, retouching or drawing"
+}

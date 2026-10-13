@@ -1,0 +1,1152 @@
+{
+ "grass": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "grass_dry": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "forest_floor": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "dirt": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "mud": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "rock_granite": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "sand": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "riverbed": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "farm": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "gravel": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "dirt_track": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "asphalt": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "asphalt_clean": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "sidewalk_hex": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "sidewalk_tiles": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "concrete": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "concrete_dirty": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "paving_market": {
+  "kind": "ground",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "road_zarichchia": {
+  "kind": "ground",
+  "source": "zarichchia_street",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   384
+  ]
+ },
+ "asphalt_patched": {
+  "kind": "ground",
+  "source": "bus_stop_teteriv",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   384,
+   256
+  ]
+ },
+ "road_2lane": {
+  "kind": "road",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   128,
+   256
+  ]
+ },
+ "road_main": {
+  "kind": "road",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   128,
+   256
+  ]
+ },
+ "road_town": {
+  "kind": "road",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   128,
+   256
+  ]
+ },
+ "road_dirt": {
+  "kind": "road",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   128,
+   256
+  ]
+ },
+ "road_gravel": {
+  "kind": "road",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   128,
+   256
+  ]
+ },
+ "kerb": {
+  "kind": "road",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   128,
+   128
+  ]
+ },
+ "plaster": {
+  "kind": "wall",
+  "tint": true,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "plaster_worn": {
+  "kind": "wall",
+  "tint": true,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "silicate_brick": {
+  "kind": "wall",
+  "tint": true,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "red_brick": {
+  "kind": "wall",
+  "tint": false,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "yellow_brick": {
+  "kind": "wall",
+  "tint": false,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "concrete_panel": {
+  "kind": "wall",
+  "tint": true,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "concrete_block": {
+  "kind": "wall",
+  "tint": true,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "factory_wall": {
+  "kind": "wall",
+  "tint": false,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "profnastil": {
+  "kind": "wall",
+  "tint": true,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "corrugated_rust": {
+  "kind": "wall",
+  "tint": false,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "planks": {
+  "kind": "wall",
+  "tint": false,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "planks_painted": {
+  "kind": "wall",
+  "tint": false,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "rubble_granite": {
+  "kind": "wall",
+  "tint": false,
+  "bays": 1,
+  "metres": [
+   3.0,
+   3.0
+  ],
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "khrush_upper": {
+  "kind": "facade",
+  "tint": true,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   128
+  ]
+ },
+ "khrush_ground": {
+  "kind": "facade",
+  "tint": true,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   128
+  ]
+ },
+ "panel9_upper": {
+  "kind": "facade",
+  "tint": true,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   128
+  ]
+ },
+ "panel9_ground": {
+  "kind": "facade",
+  "tint": true,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   128
+  ]
+ },
+ "brick_upper": {
+  "kind": "facade",
+  "tint": false,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   128
+  ]
+ },
+ "yellow_brick_upper": {
+  "kind": "facade",
+  "tint": false,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   128
+  ]
+ },
+ "public_upper": {
+  "kind": "facade",
+  "tint": true,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   128
+  ]
+ },
+ "public_ground": {
+  "kind": "facade",
+  "tint": true,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   128
+  ]
+ },
+ "plaster_upper": {
+  "kind": "facade",
+  "tint": true,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   128
+  ]
+ },
+ "shopfront_0": {
+  "kind": "facade",
+  "tint": true,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   128
+  ]
+ },
+ "shopfront_1": {
+  "kind": "facade",
+  "tint": true,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   128
+  ]
+ },
+ "shopfront_2": {
+  "kind": "facade",
+  "tint": true,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   128
+  ]
+ },
+ "industrial": {
+  "kind": "facade",
+  "tint": false,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   256
+  ]
+ },
+ "church_side": {
+  "kind": "facade",
+  "tint": false,
+  "bays": 4,
+  "floors": 1,
+  "alpha": false,
+  "size": [
+   512,
+   256
+  ]
+ },
+ "garage_door_0": {
+  "kind": "facade",
+  "bays": 1,
+  "floors": 1,
+  "tint": false,
+  "alpha": false,
+  "size": [
+   128,
+   128
+  ]
+ },
+ "garage_door_1": {
+  "kind": "facade",
+  "bays": 1,
+  "floors": 1,
+  "tint": false,
+  "alpha": false,
+  "size": [
+   128,
+   128
+  ]
+ },
+ "garage_door_2": {
+  "kind": "facade",
+  "bays": 1,
+  "floors": 1,
+  "tint": false,
+  "alpha": false,
+  "size": [
+   128,
+   128
+  ]
+ },
+ "house_wall_a": {
+  "kind": "facade",
+  "bays": 2,
+  "floors": 1,
+  "source": "house_kmytiv_a",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   256
+  ]
+ },
+ "house_wall_b": {
+  "kind": "facade",
+  "bays": 3,
+  "floors": 1,
+  "source": "house_kmytiv_d",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   768,
+   256
+  ]
+ },
+ "house_wall_c": {
+  "kind": "facade",
+  "bays": 2,
+  "floors": 1,
+  "source": "house_kmytiv_e",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   256
+  ]
+ },
+ "house_end_ruin": {
+  "kind": "facade",
+  "bays": 1,
+  "floors": 1,
+  "source": "house_kmytiv_a",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "roof_shifer": {
+  "kind": "roof",
+  "tile": "xy",
+  "source": "house_kmytiv_a",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   256
+  ]
+ },
+ "roof_shifer_b": {
+  "kind": "roof",
+  "tile": "xy",
+  "source": "house_kmytiv_e",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   256
+  ]
+ },
+ "roof_shifer_c": {
+  "kind": "roof",
+  "tile": "xy",
+  "source": "railway_station_building",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   256
+  ]
+ },
+ "gable_blue": {
+  "kind": "gable",
+  "source": "house_kmytiv_c",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   128
+  ]
+ },
+ "gable_wood": {
+  "kind": "gable",
+  "source": "house_kmytiv_b",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   128
+  ]
+ },
+ "gable_red": {
+  "kind": "gable",
+  "source": "house_kmytiv_d",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   128
+  ]
+ },
+ "gable_green": {
+  "kind": "gable",
+  "source": "house_kmytiv_e",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   128
+  ]
+ },
+ "fence_picket": {
+  "kind": "fence",
+  "metres": [
+   6.0,
+   1.5
+  ],
+  "tile": "x",
+  "source": "house_kmytiv_b",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   160
+  ]
+ },
+ "fence_picket_b": {
+  "kind": "fence",
+  "metres": [
+   5.0,
+   1.6
+  ],
+  "tile": "x",
+  "source": "house_kmytiv_c",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   192
+  ]
+ },
+ "fence_blue": {
+  "kind": "fence",
+  "metres": [
+   2.6,
+   1.9
+  ],
+  "tile": "x",
+  "source": "house_kmytiv_c",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   192
+  ]
+ },
+ "fence_planks_grey": {
+  "kind": "fence",
+  "metres": [
+   3.0,
+   1.8
+  ],
+  "tile": "x",
+  "source": "zarichchia_street",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   160
+  ]
+ },
+ "gate_blue": {
+  "kind": "fence",
+  "metres": [
+   3.0,
+   2.0
+  ],
+  "source": "house_kmytiv_d",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "postal_station": {
+  "kind": "facade",
+  "bays": 6,
+  "floors": 1,
+  "landmark": true,
+  "source": "kyivska30_postal_station",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   1024,
+   256
+  ]
+ },
+ "shops_row": {
+  "kind": "facade",
+  "bays": 3,
+  "floors": 1,
+  "landmark": true,
+  "source": "kyivska_shops_bus_station",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   192
+  ]
+ },
+ "bistro_kiosk": {
+  "kind": "facade",
+  "bays": 3,
+  "floors": 1,
+  "landmark": true,
+  "source": "kyivska_shops_bus_station",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   192
+  ]
+ },
+ "postal_station_side": {
+  "kind": "facade",
+  "bays": 4,
+  "floors": 1,
+  "landmark": true,
+  "source": "kyivska_shops_bus_station",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   192
+  ]
+ },
+ "khrush_photo": {
+  "kind": "facade",
+  "bays": 2,
+  "floors": 4,
+  "source": "miners_square_gastronom",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "sign_gastronom": {
+  "kind": "sign",
+  "source": "miners_square_gastronom",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   80
+  ]
+ },
+ "kiosk_yellow": {
+  "kind": "facade",
+  "bays": 1,
+  "floors": 1,
+  "source": "miners_square_gastronom",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   160
+  ]
+ },
+ "bus_stop_wall": {
+  "kind": "facade",
+  "bays": 1,
+  "floors": 1,
+  "source": "bus_stop_teteriv",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "sign_sanatorium": {
+  "kind": "sign",
+  "source": "bus_stop_teteriv",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   64
+  ]
+ },
+ "station_wall": {
+  "kind": "facade",
+  "bays": 2,
+  "floors": 1,
+  "landmark": true,
+  "source": "railway_station_building",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   256
+  ]
+ },
+ "sign_station": {
+  "kind": "sign",
+  "source": "railway_station_sign",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   160
+  ]
+ },
+ "quarry_cliff": {
+  "kind": "rock",
+  "tile": "x",
+  "source": "granite_quarry_wall",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   160
+  ]
+ },
+ "rda_front": {
+  "kind": "facade",
+  "bays": 9,
+  "floors": 2,
+  "landmark": true,
+  "source": "district_administration",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   1024,
+   384
+  ]
+ },
+ "college_wall": {
+  "kind": "facade",
+  "bays": 4,
+  "floors": 2,
+  "landmark": true,
+  "source": "pedagogical_college",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   512,
+   512
+  ]
+ },
+ "ruin_wattle": {
+  "kind": "facade",
+  "bays": 1,
+  "floors": 1,
+  "source": "abandoned_hut",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "fachwerk": {
+  "kind": "facade",
+  "bays": 1,
+  "floors": 1,
+  "landmark": true,
+  "source": "olizar_servants_house",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "church_front": {
+  "kind": "facade",
+  "landmark": true,
+  "source": "church_nativity_front",
+  "alpha": true,
+  "tint": false,
+  "size": [
+   512,
+   512
+  ]
+ },
+ "roof_flat": {
+  "kind": "roof",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "roof_bitumen": {
+  "kind": "roof",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "roof_metal": {
+  "kind": "roof",
+  "tint": true,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "roof_corrugated": {
+  "kind": "roof",
+  "tint": true,
+  "alpha": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "fence_concrete": {
+  "kind": "fence",
+  "tint": true,
+  "metres": [
+   4.0,
+   2.2
+  ],
+  "tile": "x",
+  "alpha": false,
+  "size": [
+   256,
+   128
+  ]
+ },
+ "fence_profnastil": {
+  "kind": "fence",
+  "tint": true,
+  "metres": [
+   3.0,
+   1.9
+  ],
+  "tile": "x",
+  "alpha": false,
+  "size": [
+   256,
+   128
+  ]
+ },
+ "fence_brick": {
+  "kind": "fence",
+  "metres": [
+   3.0,
+   1.9
+  ],
+  "tile": "x",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   256,
+   128
+  ]
+ },
+ "fence_mesh": {
+  "kind": "fence",
+  "alpha": true,
+  "metres": [
+   3.0,
+   1.6
+  ],
+  "tile": "x",
+  "tint": false,
+  "size": [
+   256,
+   128
+  ]
+ },
+ "leaves_card": {
+  "kind": "tree",
+  "alpha": true,
+  "tint": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "leaves_card_b": {
+  "kind": "tree",
+  "alpha": true,
+  "tint": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "pine_card": {
+  "kind": "tree",
+  "alpha": true,
+  "tint": false,
+  "size": [
+   256,
+   256
+  ]
+ },
+ "bark_pine": {
+  "kind": "tree",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   128,
+   256
+  ]
+ },
+ "bark": {
+  "kind": "tree",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   128,
+   256
+  ]
+ },
+ "bark_birch": {
+  "kind": "tree",
+  "tint": false,
+  "alpha": false,
+  "size": [
+   64,
+   128
+  ]
+ }
+}

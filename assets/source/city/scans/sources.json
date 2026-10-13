@@ -1,0 +1,487 @@
+{
+ "road_damaged": {
+  "source": "https://polyhaven.com/a/road_damaged",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "worn_asphalt": {
+  "source": "https://polyhaven.com/a/worn_asphalt",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "asphalt_02": {
+  "source": "https://polyhaven.com/a/asphalt_02",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "asphalt_05": {
+  "source": "https://polyhaven.com/a/asphalt_05",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "clean_asphalt": {
+  "source": "https://polyhaven.com/a/clean_asphalt",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "tarred_gravel": {
+  "source": "https://polyhaven.com/a/tarred_gravel",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "bitumen": {
+  "source": "https://polyhaven.com/a/bitumen",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "gravel_road": {
+  "source": "https://polyhaven.com/a/gravel_road",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "muddy_tracks": {
+  "source": "https://polyhaven.com/a/muddy_tracks",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "stony_dirt_path": {
+  "source": "https://polyhaven.com/a/stony_dirt_path",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "park_dirt": {
+  "source": "https://polyhaven.com/a/park_dirt",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "dirt": {
+  "source": "https://polyhaven.com/a/dirt",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "brown_mud_leaves_01": {
+  "source": "https://polyhaven.com/a/brown_mud_leaves_01",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "sparse_grass": {
+  "source": "https://polyhaven.com/a/sparse_grass",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "leafy_grass": {
+  "source": "https://polyhaven.com/a/leafy_grass",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "withered_grass": {
+  "source": "https://polyhaven.com/a/withered_grass",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "grass_path_2": {
+  "source": "https://polyhaven.com/a/grass_path_2",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "forest_leaves_02": {
+  "source": "https://polyhaven.com/a/forest_leaves_02",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "forest_floor": {
+  "source": "https://polyhaven.com/a/forest_floor",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "brown_mud": {
+  "source": "https://polyhaven.com/a/brown_mud",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "rocky_terrain_02": {
+  "source": "https://polyhaven.com/a/rocky_terrain_02",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "rock_face": {
+  "source": "https://polyhaven.com/a/rock_face",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "lichen_rock": {
+  "source": "https://polyhaven.com/a/lichen_rock",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "granite_wall": {
+  "source": "https://polyhaven.com/a/granite_wall",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "dry_riverbed_rock": {
+  "source": "https://polyhaven.com/a/dry_riverbed_rock",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "sandy_gravel": {
+  "source": "https://polyhaven.com/a/sandy_gravel",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "river_small_rocks": {
+  "source": "https://polyhaven.com/a/river_small_rocks",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "farm_soil": {
+  "source": "https://polyhaven.com/a/farm_soil",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "hexagonal_concrete_paving": {
+  "source": "https://polyhaven.com/a/hexagonal_concrete_paving",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "square_concrete_pavers": {
+  "source": "https://polyhaven.com/a/square_concrete_pavers",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "concrete_pavers": {
+  "source": "https://polyhaven.com/a/concrete_pavers",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "pavement_02": {
+  "source": "https://polyhaven.com/a/pavement_02",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "cracked_concrete": {
+  "source": "https://polyhaven.com/a/cracked_concrete",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "damaged_concrete_floor": {
+  "source": "https://polyhaven.com/a/damaged_concrete_floor",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "concrete_pavement": {
+  "source": "https://polyhaven.com/a/concrete_pavement",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "concrete_panels": {
+  "source": "https://polyhaven.com/a/concrete_panels",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "precast_concrete_wall": {
+  "source": "https://polyhaven.com/a/precast_concrete_wall",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "concrete_slab_wall": {
+  "source": "https://polyhaven.com/a/concrete_slab_wall",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "white_bricks": {
+  "source": "https://polyhaven.com/a/white_bricks",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "whitewashed_brick": {
+  "source": "https://polyhaven.com/a/whitewashed_brick",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "red_brick": {
+  "source": "https://polyhaven.com/a/red_brick",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "yellow_bricks": {
+  "source": "https://polyhaven.com/a/yellow_bricks",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "rough_plaster_brick": {
+  "source": "https://polyhaven.com/a/rough_plaster_brick",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "worn_cracked_plaster": {
+  "source": "https://polyhaven.com/a/worn_cracked_plaster",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "damaged_plaster": {
+  "source": "https://polyhaven.com/a/damaged_plaster",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "white_rough_plaster": {
+  "source": "https://polyhaven.com/a/white_rough_plaster",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "yellow_plaster": {
+  "source": "https://polyhaven.com/a/yellow_plaster",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "blue_plaster_weathered": {
+  "source": "https://polyhaven.com/a/blue_plaster_weathered",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "painted_plaster_wall": {
+  "source": "https://polyhaven.com/a/painted_plaster_wall",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "worn_mossy_plasterwall": {
+  "source": "https://polyhaven.com/a/worn_mossy_plasterwall",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "factory_wall": {
+  "source": "https://polyhaven.com/a/factory_wall",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "factory_brick": {
+  "source": "https://polyhaven.com/a/factory_brick",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "ribbed_concrete_wall": {
+  "source": "https://polyhaven.com/a/ribbed_concrete_wall",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "concrete_block_wall": {
+  "source": "https://polyhaven.com/a/concrete_block_wall",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "rectangular_facade_tiles": {
+  "source": "https://polyhaven.com/a/rectangular_facade_tiles",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "concrete_tile_facade": {
+  "source": "https://polyhaven.com/a/concrete_tile_facade",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "box_profile_metal_sheet": {
+  "source": "https://polyhaven.com/a/box_profile_metal_sheet",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "corrugated_iron_03": {
+  "source": "https://polyhaven.com/a/corrugated_iron_03",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "rusty_corrugated_iron": {
+  "source": "https://polyhaven.com/a/rusty_corrugated_iron",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "rusty_metal_sheet": {
+  "source": "https://polyhaven.com/a/rusty_metal_sheet",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "green_metal_rust": {
+  "source": "https://polyhaven.com/a/green_metal_rust",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "painted_metal_shutter": {
+  "source": "https://polyhaven.com/a/painted_metal_shutter",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "rusty_metal_shutter": {
+  "source": "https://polyhaven.com/a/rusty_metal_shutter",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "rusted_shutter": {
+  "source": "https://polyhaven.com/a/rusted_shutter",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "blue_metal_plate": {
+  "source": "https://polyhaven.com/a/blue_metal_plate",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "grey_roof_01": {
+  "source": "https://polyhaven.com/a/grey_roof_01",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "roof_09": {
+  "source": "https://polyhaven.com/a/roof_09",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "weathered_planks": {
+  "source": "https://polyhaven.com/a/weathered_planks",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "worn_planks": {
+  "source": "https://polyhaven.com/a/worn_planks",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "wooden_gate": {
+  "source": "https://polyhaven.com/a/wooden_gate",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "weathered_plank_siding": {
+  "source": "https://polyhaven.com/a/weathered_plank_siding",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "wood_peeling_paint_weathered": {
+  "source": "https://polyhaven.com/a/wood_peeling_paint_weathered",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "raw_plank_wall": {
+  "source": "https://polyhaven.com/a/raw_plank_wall",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "wood_planks_grey": {
+  "source": "https://polyhaven.com/a/wood_planks_grey",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "pine_bark": {
+  "source": "https://polyhaven.com/a/pine_bark",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "bark_brown_01": {
+  "source": "https://polyhaven.com/a/bark_brown_01",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "bark_willow": {
+  "source": "https://polyhaven.com/a/bark_willow",
+  "license": "CC0-1.0",
+  "author": "Poly Haven"
+ },
+ "Fence001": {
+  "source": "https://ambientcg.com/view?id=Fence001",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "Fence002": {
+  "source": "https://ambientcg.com/view?id=Fence002",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "Fence003": {
+  "source": "https://ambientcg.com/view?id=Fence003",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "Fence004": {
+  "source": "https://ambientcg.com/view?id=Fence004",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "Fence005": {
+  "source": "https://ambientcg.com/view?id=Fence005",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "Fence006": {
+  "source": "https://ambientcg.com/view?id=Fence006",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "Fence007A": {
+  "source": "https://ambientcg.com/view?id=Fence007A",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "Fence008A": {
+  "source": "https://ambientcg.com/view?id=Fence008A",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "LeafSet004": {
+  "source": "https://ambientcg.com/view?id=LeafSet004",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "LeafSet010": {
+  "source": "https://ambientcg.com/view?id=LeafSet010",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "LeafSet017": {
+  "source": "https://ambientcg.com/view?id=LeafSet017",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "LeafSet024": {
+  "source": "https://ambientcg.com/view?id=LeafSet024",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "Foliage001": {
+  "source": "https://ambientcg.com/view?id=Foliage001",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "Foliage003": {
+  "source": "https://ambientcg.com/view?id=Foliage003",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "PineNeedles001": {
+  "source": "https://ambientcg.com/view?id=PineNeedles001",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "CorrugatedSteel005": {
+  "source": "https://ambientcg.com/view?id=CorrugatedSteel005",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "CorrugatedSteel007A": {
+  "source": "https://ambientcg.com/view?id=CorrugatedSteel007A",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "CorrugatedSteel008A": {
+  "source": "https://ambientcg.com/view?id=CorrugatedSteel008A",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "Road007": {
+  "source": "https://ambientcg.com/view?id=Road007",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ },
+ "RoadLines020A": {
+  "source": "https://ambientcg.com/view?id=RoadLines020A",
+  "license": "CC0-1.0",
+  "author": "ambientCG"
+ }
+}

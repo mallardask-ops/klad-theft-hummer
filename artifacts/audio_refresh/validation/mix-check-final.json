@@ -1,0 +1,348 @@
+{
+  "status": "pass",
+  "assets": {
+    "step_gravel.wav": {
+      "peak": 0.649994,
+      "peak_db": -3.74,
+      "rms_db": -27.65,
+      "full_scale_samples": 0,
+      "duration": 0.48,
+      "onset_ms": 10.43
+    },
+    "step_gravel_2.wav": {
+      "peak": 0.649994,
+      "peak_db": -3.74,
+      "rms_db": -26.9,
+      "full_scale_samples": 0,
+      "duration": 0.5,
+      "onset_ms": 24.08
+    },
+    "step.wav": {
+      "peak": 0.669983,
+      "peak_db": -3.48,
+      "rms_db": -27.92,
+      "full_scale_samples": 0,
+      "duration": 0.32,
+      "onset_ms": 19.27
+    },
+    "step_concrete_2.wav": {
+      "peak": 0.669983,
+      "peak_db": -3.48,
+      "rms_db": -32.1,
+      "full_scale_samples": 0,
+      "duration": 0.32,
+      "onset_ms": 17.23
+    },
+    "swing.wav": {
+      "peak": 0.599976,
+      "peak_db": -4.44,
+      "rms_db": -21.69,
+      "full_scale_samples": 0,
+      "duration": 0.465,
+      "onset_ms": 4.17
+    },
+    "hammer_metal.wav": {
+      "peak": 0.779968,
+      "peak_db": -2.16,
+      "rms_db": -18.5,
+      "full_scale_samples": 0,
+      "duration": 0.7249,
+      "onset_ms": 3.99
+    },
+    "crash_light.wav": {
+      "peak": 0.649994,
+      "peak_db": -3.74,
+      "rms_db": -33.31,
+      "full_scale_samples": 0,
+      "duration": 0.4101,
+      "onset_ms": 3.99
+    },
+    "door.wav": {
+      "peak": 0.73999,
+      "peak_db": -2.62,
+      "rms_db": -20.99,
+      "full_scale_samples": 0,
+      "duration": 0.3821,
+      "onset_ms": 4.04
+    },
+    "engine_start.wav": {
+      "peak": 0.599976,
+      "peak_db": -4.44,
+      "rms_db": -22.07,
+      "full_scale_samples": 0,
+      "duration": 1.2002,
+      "onset_ms": 4.13
+    },
+    "siren.wav": {
+      "peak": 0.579987,
+      "peak_db": -4.73,
+      "rms_db": -14.31,
+      "full_scale_samples": 0,
+      "duration": 5.88,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.095398
+    },
+    "ambience.wav": {
+      "peak": 0.5,
+      "peak_db": -6.02,
+      "rms_db": -22.48,
+      "full_scale_samples": 0,
+      "duration": 19.2,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.00293
+    },
+    "river.wav": {
+      "peak": 0.47998,
+      "peak_db": -6.38,
+      "rms_db": -43.49,
+      "full_scale_samples": 0,
+      "duration": 19.2,
+      "onset_ms": 16.85,
+      "loop_seam_step": 9.2e-05
+    },
+    "wind.wav": {
+      "peak": 0.399994,
+      "peak_db": -7.96,
+      "rms_db": -32.09,
+      "full_scale_samples": 0,
+      "duration": 19.2,
+      "onset_ms": 0.02,
+      "loop_seam_step": 0.012878
+    },
+    "radio_static.wav": {
+      "peak": 0.5,
+      "peak_db": -6.02,
+      "rms_db": -24.55,
+      "full_scale_samples": 0,
+      "duration": 1.1863,
+      "onset_ms": 9.93
+    },
+    "birds.wav": {
+      "peak": 0.399994,
+      "peak_db": -7.96,
+      "rms_db": -32.43,
+      "full_scale_samples": 0,
+      "duration": 19.2,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.023499
+    },
+    "hurt.wav": {
+      "peak": 0.649994,
+      "peak_db": -3.74,
+      "rms_db": -18.7,
+      "full_scale_samples": 0,
+      "duration": 0.23,
+      "onset_ms": 23.22
+    },
+    "engine.wav": {
+      "peak": 0.679993,
+      "peak_db": -3.35,
+      "rms_db": -18.1,
+      "full_scale_samples": 0,
+      "duration": 4.8,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.003784
+    },
+    "engine_load.wav": {
+      "peak": 0.669983,
+      "peak_db": -3.48,
+      "rms_db": -19.18,
+      "full_scale_samples": 0,
+      "duration": 1.38,
+      "onset_ms": 0.27,
+      "loop_seam_step": 0.00061
+    },
+    "road.wav": {
+      "peak": 0.519989,
+      "peak_db": -5.68,
+      "rms_db": -21.43,
+      "full_scale_samples": 0,
+      "duration": 5.8,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.034607
+    },
+    "diesel_idle.wav": {
+      "peak": 0.679993,
+      "peak_db": -3.35,
+      "rms_db": -13.82,
+      "full_scale_samples": 0,
+      "duration": 4.98,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.005096
+    },
+    "tires.wav": {
+      "peak": 0.599976,
+      "peak_db": -4.44,
+      "rms_db": -15.31,
+      "full_scale_samples": 0,
+      "duration": 0.82,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.03949
+    },
+    "crash.wav": {
+      "peak": 0.779968,
+      "peak_db": -2.16,
+      "rms_db": -20.19,
+      "full_scale_samples": 0,
+      "duration": 1.0,
+      "onset_ms": 12.7
+    },
+    "ui.wav": {
+      "peak": 0.5,
+      "peak_db": -6.02,
+      "rms_db": -23.55,
+      "full_scale_samples": 0,
+      "duration": 0.08,
+      "onset_ms": 16.12
+    },
+    "ui_accept.wav": {
+      "peak": 0.549988,
+      "peak_db": -5.19,
+      "rms_db": -31.1,
+      "full_scale_samples": 0,
+      "duration": 0.1,
+      "onset_ms": 11.9
+    },
+    "pickup.wav": {
+      "peak": 0.599976,
+      "peak_db": -4.44,
+      "rms_db": -22.98,
+      "full_scale_samples": 0,
+      "duration": 0.6,
+      "onset_ms": 14.2
+    },
+    "impact.wav": {
+      "peak": 0.73999,
+      "peak_db": -2.62,
+      "rms_db": -29.97,
+      "full_scale_samples": 0,
+      "duration": 0.32,
+      "onset_ms": 21.88
+    },
+    "mission_start.wav": {
+      "peak": 0.499969,
+      "peak_db": -6.02,
+      "rms_db": -17.95,
+      "full_scale_samples": 0,
+      "duration": 0.2782,
+      "onset_ms": 3.99
+    },
+    "fail.wav": {
+      "peak": 0.649994,
+      "peak_db": -3.74,
+      "rms_db": -16.75,
+      "full_scale_samples": 0,
+      "duration": 0.6382,
+      "onset_ms": 3.99
+    },
+    "radio.ogg": {
+      "peak": 0.774835,
+      "peak_db": -2.22,
+      "rms_db": -15.93,
+      "full_scale_samples": 0,
+      "duration": 66.242,
+      "onset_ms": 15.96,
+      "loop_seam_step": 0.000966
+    },
+    "mission_pass.wav": {
+      "peak": 0.699982,
+      "peak_db": -3.1,
+      "rms_db": -19.16,
+      "full_scale_samples": 0,
+      "duration": 4.14,
+      "onset_ms": 9.95
+    },
+    "diesel_load.wav": {
+      "peak": 0.669983,
+      "peak_db": -3.48,
+      "rms_db": -16.9,
+      "full_scale_samples": 0,
+      "duration": 2.02,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.053894
+    }
+  },
+  "runtime_phases": {
+    "01-menu": {
+      "peak": 0.107239,
+      "peak_db": -19.39,
+      "rms_db": -43.53,
+      "full_scale_samples": 0
+    },
+    "02-footsteps": {
+      "peak": 0.131714,
+      "peak_db": -17.61,
+      "rms_db": -38.26,
+      "full_scale_samples": 0
+    },
+    "03-door-and-idle": {
+      "peak": 0.299316,
+      "peak_db": -10.48,
+      "rms_db": -25.19,
+      "full_scale_samples": 0
+    },
+    "04-acceleration": {
+      "peak": 0.215698,
+      "peak_db": -13.32,
+      "rms_db": -27.05,
+      "full_scale_samples": 0
+    },
+    "05-braking": {
+      "peak": 0.240753,
+      "peak_db": -12.37,
+      "rms_db": -24.91,
+      "full_scale_samples": 0
+    },
+    "06-collisions": {
+      "peak": 0.428925,
+      "peak_db": -7.35,
+      "rms_db": -23.99,
+      "full_scale_samples": 0
+    },
+    "07-body-and-metal": {
+      "peak": 0.369263,
+      "peak_db": -8.65,
+      "rms_db": -28.22,
+      "full_scale_samples": 0
+    },
+    "08-diesel": {
+      "peak": 0.282928,
+      "peak_db": -10.97,
+      "rms_db": -23.93,
+      "full_scale_samples": 0
+    },
+    "09-mission-and-dense-mix": {
+      "peak": 0.891235,
+      "peak_db": -1.0,
+      "rms_db": -22.7,
+      "full_scale_samples": 0
+    },
+    "10-pause": {
+      "peak": 0.0,
+      "peak_db": -180.0,
+      "rms_db": -180.0,
+      "full_scale_samples": 0
+    },
+    "11-muted": {
+      "peak": 0.0,
+      "peak_db": -180.0,
+      "rms_db": -180.0,
+      "full_scale_samples": 0
+    },
+    "12-siren-right": {
+      "peak": 0.204498,
+      "peak_db": -13.79,
+      "rms_db": -33.02,
+      "full_scale_samples": 0,
+      "left_rms_db": -34.04,
+      "right_rms_db": -32.2
+    },
+    "13-failure": {
+      "peak": 0.22821,
+      "peak_db": -12.83,
+      "rms_db": -28.77,
+      "full_scale_samples": 0
+    }
+  },
+  "errors": []
+}

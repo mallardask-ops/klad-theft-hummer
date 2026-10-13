@@ -1,0 +1,921 @@
+{
+  "sheet_size": [
+    1024,
+    1024
+  ],
+  "order": "left to right, top to bottom",
+  "icons": [
+    {
+      "filename": "weapon_fist.png",
+      "sheet": "sheet_a_weapons.png",
+      "cell": 1,
+      "rect": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_a_weapons.png",
+      "native_crop": [
+        25,
+        85,
+        259,
+        181
+      ]
+    },
+    {
+      "filename": "weapon_hammer.png",
+      "sheet": "sheet_a_weapons.png",
+      "cell": 2,
+      "rect": [
+        256,
+        0,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_a_weapons.png",
+      "native_crop": [
+        342,
+        38,
+        260,
+        259
+      ]
+    },
+    {
+      "filename": "weapon_pan.png",
+      "sheet": "sheet_a_weapons.png",
+      "cell": 3,
+      "rect": [
+        512,
+        0,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_a_weapons.png",
+      "native_crop": [
+        651,
+        65,
+        283,
+        215
+      ]
+    },
+    {
+      "filename": "weapon_bat.png",
+      "sheet": "sheet_a_weapons.png",
+      "cell": 4,
+      "rect": [
+        768,
+        0,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_a_weapons.png",
+      "native_crop": [
+        976,
+        59,
+        262,
+        238
+      ]
+    },
+    {
+      "filename": "weapon_crowbar.png",
+      "sheet": "sheet_a_weapons.png",
+      "cell": 5,
+      "rect": [
+        0,
+        256,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_a_weapons.png",
+      "native_crop": [
+        27,
+        352,
+        265,
+        246
+      ]
+    },
+    {
+      "filename": "weapon_makarov.png",
+      "sheet": "sheet_a_weapons.png",
+      "cell": 6,
+      "rect": [
+        256,
+        256,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_a_weapons.png",
+      "native_crop": [
+        332,
+        374,
+        272,
+        197
+      ]
+    },
+    {
+      "filename": "weapon_sawnoff.png",
+      "sheet": "sheet_a_weapons.png",
+      "cell": 7,
+      "rect": [
+        512,
+        256,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_a_weapons.png",
+      "native_crop": [
+        651,
+        412,
+        276,
+        138
+      ]
+    },
+    {
+      "filename": "weapon_ak.png",
+      "sheet": "sheet_a_weapons.png",
+      "cell": 8,
+      "rect": [
+        768,
+        256,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_a_weapons.png",
+      "native_crop": [
+        952,
+        382,
+        294,
+        182
+      ]
+    },
+    {
+      "filename": "weapon_uzi.png",
+      "sheet": "sheet_a_weapons.png",
+      "cell": 9,
+      "rect": [
+        0,
+        512,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_a_weapons.png",
+      "native_crop": [
+        29,
+        676,
+        269,
+        234
+      ]
+    },
+    {
+      "filename": "weapon_molotov.png",
+      "sheet": "sheet_a_weapons.png",
+      "cell": 10,
+      "rect": [
+        256,
+        512,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_a_weapons.png",
+      "native_crop": [
+        357,
+        651,
+        245,
+        266
+      ]
+    },
+    {
+      "filename": "weapon_grenade.png",
+      "sheet": "sheet_a_weapons.png",
+      "cell": 11,
+      "rect": [
+        512,
+        512,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_a_weapons.png",
+      "native_crop": [
+        702,
+        666,
+        172,
+        245
+      ]
+    },
+    {
+      "filename": "hud_health.png",
+      "sheet": "sheet_b_hud.png",
+      "cell": 1,
+      "rect": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_b_hud.png",
+      "native_crop": [
+        27,
+        81,
+        281,
+        238
+      ]
+    },
+    {
+      "filename": "hud_armor.png",
+      "sheet": "sheet_b_hud.png",
+      "cell": 2,
+      "rect": [
+        256,
+        0,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_b_hud.png",
+      "native_crop": [
+        341,
+        77,
+        261,
+        242
+      ]
+    },
+    {
+      "filename": "hud_wanted_on.png",
+      "sheet": "sheet_b_hud.png",
+      "cell": 3,
+      "rect": [
+        512,
+        0,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_b_hud.png",
+      "native_crop": [
+        645,
+        67,
+        275,
+        251
+      ]
+    },
+    {
+      "filename": "hud_wanted_off.png",
+      "sheet": "sheet_b_hud.png",
+      "cell": 4,
+      "rect": [
+        768,
+        0,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_b_hud.png",
+      "native_crop": [
+        954,
+        67,
+        275,
+        251
+      ]
+    },
+    {
+      "filename": "blip_safehouse.png",
+      "sheet": "sheet_c_services.png",
+      "cell": 1,
+      "rect": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_services.png",
+      "native_crop": [
+        39,
+        84,
+        260,
+        218
+      ]
+    },
+    {
+      "filename": "blip_respray.png",
+      "sheet": "sheet_c_services.png",
+      "cell": 2,
+      "rect": [
+        256,
+        0,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_services.png",
+      "native_crop": [
+        422,
+        59,
+        124,
+        247
+      ]
+    },
+    {
+      "filename": "blip_gunshop.png",
+      "sheet": "sheet_c_services.png",
+      "cell": 3,
+      "rect": [
+        512,
+        0,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_services.png",
+      "native_crop": [
+        630,
+        126,
+        317,
+        143
+      ]
+    },
+    {
+      "filename": "blip_bombshop.png",
+      "sheet": "sheet_c_services.png",
+      "cell": 4,
+      "rect": [
+        768,
+        0,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_services.png",
+      "native_crop": [
+        1008,
+        49,
+        172,
+        259
+      ]
+    },
+    {
+      "filename": "blip_hospital.png",
+      "sheet": "sheet_c_services.png",
+      "cell": 5,
+      "rect": [
+        0,
+        256,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_services.png",
+      "native_crop": [
+        61,
+        372,
+        218,
+        216
+      ]
+    },
+    {
+      "filename": "blip_police.png",
+      "sheet": "sheet_c_services.png",
+      "cell": 6,
+      "rect": [
+        256,
+        256,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_services.png",
+      "native_crop": [
+        337,
+        391,
+        291,
+        190
+      ]
+    },
+    {
+      "filename": "blip_cafe.png",
+      "sheet": "sheet_c_services.png",
+      "cell": 7,
+      "rect": [
+        512,
+        256,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_services.png",
+      "native_crop": [
+        691,
+        357,
+        186,
+        246
+      ]
+    },
+    {
+      "filename": "blip_market.png",
+      "sheet": "sheet_c_services.png",
+      "cell": 8,
+      "rect": [
+        768,
+        256,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_services.png",
+      "native_crop": [
+        964,
+        355,
+        256,
+        248
+      ]
+    },
+    {
+      "filename": "blip_busstation.png",
+      "sheet": "sheet_c_services.png",
+      "cell": 9,
+      "rect": [
+        0,
+        512,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_services.png",
+      "native_crop": [
+        45,
+        666,
+        249,
+        223
+      ]
+    },
+    {
+      "filename": "blip_fuel.png",
+      "sheet": "sheet_c_services.png",
+      "cell": 10,
+      "rect": [
+        256,
+        512,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_services.png",
+      "native_crop": [
+        385,
+        659,
+        188,
+        236
+      ]
+    },
+    {
+      "filename": "blip_marshrutka.png",
+      "sheet": "sheet_c_activities.png",
+      "cell": 1,
+      "rect": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_activities.png",
+      "native_crop": [
+        14,
+        68,
+        300,
+        230
+      ]
+    },
+    {
+      "filename": "blip_vigilante.png",
+      "sheet": "sheet_c_activities.png",
+      "cell": 2,
+      "rect": [
+        256,
+        0,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_activities.png",
+      "native_crop": [
+        360,
+        77,
+        232,
+        209
+      ]
+    },
+    {
+      "filename": "blip_ambulance.png",
+      "sheet": "sheet_c_activities.png",
+      "cell": 3,
+      "rect": [
+        512,
+        0,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_activities.png",
+      "native_crop": [
+        630,
+        87,
+        312,
+        195
+      ]
+    },
+    {
+      "filename": "blip_delivery.png",
+      "sheet": "sheet_c_activities.png",
+      "cell": 4,
+      "rect": [
+        768,
+        0,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_activities.png",
+      "native_crop": [
+        954,
+        106,
+        286,
+        182
+      ]
+    },
+    {
+      "filename": "blip_race.png",
+      "sheet": "sheet_c_activities.png",
+      "cell": 5,
+      "rect": [
+        0,
+        256,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_activities.png",
+      "native_crop": [
+        31,
+        357,
+        262,
+        261
+      ]
+    },
+    {
+      "filename": "blip_cliffjump.png",
+      "sheet": "sheet_c_activities.png",
+      "cell": 6,
+      "rect": [
+        256,
+        256,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_activities.png",
+      "native_crop": [
+        326,
+        350,
+        295,
+        274
+      ]
+    },
+    {
+      "filename": "blip_fishing.png",
+      "sheet": "sheet_c_activities.png",
+      "cell": 7,
+      "rect": [
+        512,
+        256,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_activities.png",
+      "native_crop": [
+        636,
+        407,
+        292,
+        172
+      ]
+    },
+    {
+      "filename": "blip_rampage.png",
+      "sheet": "sheet_c_activities.png",
+      "cell": 8,
+      "rect": [
+        768,
+        256,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_activities.png",
+      "native_crop": [
+        946,
+        343,
+        278,
+        265
+      ]
+    },
+    {
+      "filename": "blip_package.png",
+      "sheet": "sheet_c_activities.png",
+      "cell": 9,
+      "rect": [
+        0,
+        512,
+        256,
+        256
+      ],
+      "target_size": 128,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_c_activities.png",
+      "native_crop": [
+        71,
+        652,
+        196,
+        276
+      ]
+    },
+    {
+      "filename": "pickup_health.png",
+      "sheet": "sheet_d_pickups.png",
+      "cell": 1,
+      "rect": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_d_pickups.png",
+      "native_crop": [
+        30,
+        70,
+        267,
+        245
+      ]
+    },
+    {
+      "filename": "pickup_armor.png",
+      "sheet": "sheet_d_pickups.png",
+      "cell": 2,
+      "rect": [
+        256,
+        0,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_d_pickups.png",
+      "native_crop": [
+        343,
+        58,
+        255,
+        263
+      ]
+    },
+    {
+      "filename": "pickup_package.png",
+      "sheet": "sheet_d_pickups.png",
+      "cell": 3,
+      "rect": [
+        512,
+        0,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_d_pickups.png",
+      "native_crop": [
+        674,
+        57,
+        220,
+        266
+      ]
+    },
+    {
+      "filename": "pickup_rampage.png",
+      "sheet": "sheet_d_pickups.png",
+      "cell": 4,
+      "rect": [
+        768,
+        0,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_d_pickups.png",
+      "native_crop": [
+        946,
+        51,
+        290,
+        270
+      ]
+    },
+    {
+      "filename": "radio_kodlo.png",
+      "sheet": "sheet_e_radio.png",
+      "cell": 1,
+      "rect": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "target_size": 512,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_e_radio.png",
+      "native_crop": [
+        41,
+        41,
+        587,
+        556
+      ]
+    },
+    {
+      "filename": "radio_cast.png",
+      "sheet": "sheet_e_radio.png",
+      "cell": 2,
+      "rect": [
+        512,
+        0,
+        512,
+        512
+      ],
+      "target_size": 512,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_e_radio.png",
+      "native_crop": [
+        655,
+        70,
+        568,
+        521
+      ]
+    },
+    {
+      "filename": "radio_shanson.png",
+      "sheet": "sheet_e_radio.png",
+      "cell": 3,
+      "rect": [
+        0,
+        512,
+        512,
+        512
+      ],
+      "target_size": 512,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_e_radio.png",
+      "native_crop": [
+        37,
+        663,
+        612,
+        514
+      ]
+    },
+    {
+      "filename": "radio_barista.png",
+      "sheet": "sheet_e_radio.png",
+      "cell": 4,
+      "rect": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "target_size": 512,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_e_radio.png",
+      "native_crop": [
+        655,
+        631,
+        572,
+        553
+      ]
+    },
+    {
+      "filename": "item_gold_box.png",
+      "sheet": "sheet_f_mission_items.png",
+      "cell": 1,
+      "rect": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_f_mission_items.png",
+      "native_crop": [
+        9,
+        95,
+        327,
+        272
+      ]
+    },
+    {
+      "filename": "item_sugar.png",
+      "sheet": "sheet_f_mission_items.png",
+      "cell": 2,
+      "rect": [
+        256,
+        0,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_f_mission_items.png",
+      "native_crop": [
+        351,
+        57,
+        260,
+        304
+      ]
+    },
+    {
+      "filename": "item_donor_phone.png",
+      "sheet": "sheet_f_mission_items.png",
+      "cell": 3,
+      "rect": [
+        512,
+        0,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_f_mission_items.png",
+      "native_crop": [
+        646,
+        85,
+        294,
+        274
+      ]
+    },
+    {
+      "filename": "item_debt_journal.png",
+      "sheet": "sheet_f_mission_items.png",
+      "cell": 4,
+      "rect": [
+        768,
+        0,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_f_mission_items.png",
+      "native_crop": [
+        959,
+        87,
+        275,
+        254
+      ]
+    },
+    {
+      "filename": "item_cashbox.png",
+      "sheet": "sheet_f_mission_items.png",
+      "cell": 5,
+      "rect": [
+        0,
+        256,
+        256,
+        256
+      ],
+      "target_size": 256,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/sheet_f_mission_items.png",
+      "native_crop": [
+        13,
+        401,
+        312,
+        251
+      ]
+    },
+    {
+      "filename": "app_icon.png",
+      "sheet": "app_icon.png",
+      "cell": 1,
+      "rect": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "target_size": 1024,
+      "native_source": "artifacts/gpt_icons_brief/generated_native/app_icon.png",
+      "native_crop": [
+        57,
+        116,
+        1141,
+        1019
+      ]
+    }
+  ]
+}

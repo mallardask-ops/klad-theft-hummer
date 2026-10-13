@@ -1,0 +1,24 @@
+{
+ "asset": "podro",
+ "triangles": 2252,
+ "joints": 65,
+ "animations": [
+  "idle",
+  "walk",
+  "run",
+  "stroll",
+  "attack",
+  "punch",
+  "hit",
+  "death",
+  "drive",
+  "jump_start",
+  "jump_air",
+  "jump_land",
+  "talk",
+  "pickup",
+  "interact"
+ ],
+ "textures": 1,
+ "bytes": 1566964
+}

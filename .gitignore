@@ -1,0 +1,6 @@
+.godot/
+builds/
+tmp/
+tmp-39a95b8e7674cea2/
+*.log
+docs/source/

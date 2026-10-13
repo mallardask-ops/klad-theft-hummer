@@ -1,0 +1,17 @@
+---
+description: Work exclusively by vibe-coding and slopping
+alwaysApply: true
+---
+
+# Vibe and slop only
+
+Work exclusively by vibe-coding and slopping. Do not switch into careful production engineering.
+
+- Ship the next playable change by feel.
+- Skip polish passes, architecture reviews, and careful refactors.
+- A pull request that is careful hand-engineering is out of scope.
+
+```text
+// out of scope: rewrite the scene graph, add a test harness, then polish names
+// in scope: feel the next beat, drop it in, leave it playable
+```

@@ -1,0 +1,79 @@
+{
+  "run_id": "20261013T110415Z-ed3c0e6b",
+  "status": "pass",
+  "checks": {
+    "project-import": {
+      "command": [
+        "godot",
+        "--headless",
+        "--editor",
+        "--path",
+        "/home/mallar2d/Документи/ChatGPT/klad-theft-hummer",
+        "--quit"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "log": "artifacts/audio_refresh/validation/release-20261013T110415Z-ed3c0e6b/project-import.log",
+      "status": "pass"
+    },
+    "headless-runtime": {
+      "command": [
+        "godot",
+        "--headless",
+        "--path",
+        "/home/mallar2d/Документи/ChatGPT/klad-theft-hummer",
+        "--quit-after",
+        "120"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "log": "artifacts/audio_refresh/validation/release-20261013T110415Z-ed3c0e6b/headless-runtime.log",
+      "status": "pass"
+    },
+    "export": {
+      "command": [
+        "godot",
+        "--headless",
+        "--path",
+        "/home/mallar2d/Документи/ChatGPT/klad-theft-hummer",
+        "--export-release",
+        "Linux",
+        "/home/mallar2d/Документи/ChatGPT/klad-theft-hummer/builds/KladTheftHummer-audio.x86_64"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "log": "artifacts/audio_refresh/validation/release-20261013T110415Z-ed3c0e6b/export.log",
+      "status": "pass"
+    },
+    "exported-replay": {
+      "command": [
+        "/home/mallar2d/Документи/ChatGPT/klad-theft-hummer/builds/KladTheftHummer-audio.x86_64",
+        "--audio-driver",
+        "Dummy",
+        "--",
+        "--verify",
+        "--evidence-dir=/home/mallar2d/Документи/ChatGPT/klad-theft-hummer/artifacts/audio_refresh/validation/release-20261013T110415Z-ed3c0e6b/screens",
+        "--audio-record=/home/mallar2d/Документи/ChatGPT/klad-theft-hummer/artifacts/audio_refresh/validation/release-20261013T110415Z-ed3c0e6b/exported-mix.wav"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "log": "artifacts/audio_refresh/validation/release-20261013T110415Z-ed3c0e6b/exported-replay.log",
+      "status": "pass"
+    },
+    "exported-mix": {
+      "status": "pass",
+      "peak": 0.450043,
+      "peak_db": -6.93,
+      "rms_db": -30.94,
+      "full_scale_samples": 0
+    }
+  },
+  "highest_evidence": "L4 EXPORTED_BLACK_BOX",
+  "binary": "builds/KladTheftHummer-audio.x86_64",
+  "binary_sha256": "e40c4a90a72db12cdf1cb6e389d8a6f086c75443a00a8e6f4768cda9a25da175",
+  "notes": [
+    "Native Linux equivalent of skill validation commands; PowerShell is unavailable.",
+    "Graphical/input replay and actual Godot software mix; Dummy audio driver, no hardware listening test.",
+    "Test saves/settings isolated under /tmp."
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "requested_icons": 48,
+  "mapped_icons": 48,
+  "png_files": [
+    {
+      "file": "app_icon.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "icons": 1,
+      "cell_size": 1024,
+      "cells": [
+        {
+          "cell": 1,
+          "visible_bbox": [
+            83,
+            129,
+            941,
+            895
+          ],
+          "minimum_padding": 83
+        }
+      ]
+    },
+    {
+      "file": "sheet_a_weapons.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "icons": 11,
+      "cell_size": 256,
+      "cells": [
+        {
+          "cell": 1,
+          "visible_bbox": [
+            26,
+            57,
+            229,
+            198
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 2,
+          "visible_bbox": [
+            27,
+            27,
+            229,
+            229
+          ],
+          "minimum_padding": 27
+        },
+        {
+          "cell": 3,
+          "visible_bbox": [
+            26,
+            51,
+            229,
+            205
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 4,
+          "visible_bbox": [
+            27,
+            36,
+            228,
+            219
+          ],
+          "minimum_padding": 27
+        },
+        {
+          "cell": 5,
+          "visible_bbox": [
+            26,
+            34,
+            229,
+            223
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 6,
+          "visible_bbox": [
+            27,
+            56,
+            229,
+            201
+          ],
+          "minimum_padding": 27
+        },
+        {
+          "cell": 7,
+          "visible_bbox": [
+            26,
+            77,
+            229,
+            178
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 8,
+          "visible_bbox": [
+            26,
+            65,
+            229,
+            190
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 9,
+          "visible_bbox": [
+            26,
+            40,
+            229,
+            215
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 10,
+          "visible_bbox": [
+            34,
+            25,
+            220,
+            229
+          ],
+          "minimum_padding": 25
+        },
+        {
+          "cell": 11,
+          "visible_bbox": [
+            57,
+            26,
+            198,
+            228
+          ],
+          "minimum_padding": 26
+        }
+      ]
+    },
+    {
+      "file": "sheet_b_hud.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "icons": 4,
+      "cell_size": 256,
+      "cells": [
+        {
+          "cell": 1,
+          "visible_bbox": [
+            26,
+            42,
+            228,
+            214
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 2,
+          "visible_bbox": [
+            26,
+            34,
+            229,
+            222
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 3,
+          "visible_bbox": [
+            26,
+            34,
+            229,
+            220
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 4,
+          "visible_bbox": [
+            26,
+            34,
+            229,
+            220
+          ],
+          "minimum_padding": 26
+        }
+      ]
+    },
+    {
+      "file": "sheet_c_activities.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "icons": 9,
+      "cell_size": 256,
+      "cells": [
+        {
+          "cell": 1,
+          "visible_bbox": [
+            26,
+            50,
+            229,
+            205
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 2,
+          "visible_bbox": [
+            27,
+            36,
+            229,
+            218
+          ],
+          "minimum_padding": 27
+        },
+        {
+          "cell": 3,
+          "visible_bbox": [
+            26,
+            65,
+            229,
+            191
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 4,
+          "visible_bbox": [
+            27,
+            65,
+            229,
+            192
+          ],
+          "minimum_padding": 27
+        },
+        {
+          "cell": 5,
+          "visible_bbox": [
+            26,
+            28,
+            228,
+            229
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 6,
+          "visible_bbox": [
+            26,
+            34,
+            229,
+            222
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 7,
+          "visible_bbox": [
+            26,
+            68,
+            229,
+            187
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 8,
+          "visible_bbox": [
+            26,
+            31,
+            229,
+            224
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 9,
+          "visible_bbox": [
+            56,
+            26,
+            200,
+            229
+          ],
+          "minimum_padding": 26
+        }
+      ]
+    },
+    {
+      "file": "sheet_c_services.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "icons": 10,
+      "cell_size": 256,
+      "cells": [
+        {
+          "cell": 1,
+          "visible_bbox": [
+            26,
+            43,
+            229,
+            213
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 2,
+          "visible_bbox": [
+            77,
+            26,
+            178,
+            229
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 3,
+          "visible_bbox": [
+            26,
+            83,
+            229,
+            173
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 4,
+          "visible_bbox": [
+            61,
+            26,
+            195,
+            229
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 5,
+          "visible_bbox": [
+            27,
+            28,
+            228,
+            227
+          ],
+          "minimum_padding": 27
+        },
+        {
+          "cell": 6,
+          "visible_bbox": [
+            26,
+            62,
+            229,
+            194
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 7,
+          "visible_bbox": [
+            51,
+            27,
+            204,
+            229
+          ],
+          "minimum_padding": 27
+        },
+        {
+          "cell": 8,
+          "visible_bbox": [
+            26,
+            29,
+            229,
+            226
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 9,
+          "visible_bbox": [
+            27,
+            38,
+            229,
+            218
+          ],
+          "minimum_padding": 27
+        },
+        {
+          "cell": 10,
+          "visible_bbox": [
+            47,
+            26,
+            208,
+            229
+          ],
+          "minimum_padding": 26
+        }
+      ]
+    },
+    {
+      "file": "sheet_d_pickups.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "icons": 4,
+      "cell_size": 256,
+      "cells": [
+        {
+          "cell": 1,
+          "visible_bbox": [
+            27,
+            35,
+            228,
+            221
+          ],
+          "minimum_padding": 27
+        },
+        {
+          "cell": 2,
+          "visible_bbox": [
+            29,
+            27,
+            225,
+            228
+          ],
+          "minimum_padding": 27
+        },
+        {
+          "cell": 3,
+          "visible_bbox": [
+            44,
+            26,
+            212,
+            228
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 4,
+          "visible_bbox": [
+            26,
+            33,
+            229,
+            222
+          ],
+          "minimum_padding": 26
+        }
+      ]
+    },
+    {
+      "file": "sheet_e_radio.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "icons": 4,
+      "cell_size": 512,
+      "cells": [
+        {
+          "cell": 1,
+          "visible_bbox": [
+            52,
+            63,
+            460,
+            450
+          ],
+          "minimum_padding": 52
+        },
+        {
+          "cell": 2,
+          "visible_bbox": [
+            52,
+            69,
+            460,
+            443
+          ],
+          "minimum_padding": 52
+        },
+        {
+          "cell": 3,
+          "visible_bbox": [
+            52,
+            85,
+            460,
+            427
+          ],
+          "minimum_padding": 52
+        },
+        {
+          "cell": 4,
+          "visible_bbox": [
+            52,
+            59,
+            460,
+            453
+          ],
+          "minimum_padding": 52
+        }
+      ]
+    },
+    {
+      "file": "sheet_f_mission_items.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "icons": 5,
+      "cell_size": 256,
+      "cells": [
+        {
+          "cell": 1,
+          "visible_bbox": [
+            26,
+            43,
+            229,
+            213
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 2,
+          "visible_bbox": [
+            41,
+            25,
+            214,
+            229
+          ],
+          "minimum_padding": 25
+        },
+        {
+          "cell": 3,
+          "visible_bbox": [
+            26,
+            33,
+            229,
+            222
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 4,
+          "visible_bbox": [
+            26,
+            34,
+            229,
+            221
+          ],
+          "minimum_padding": 26
+        },
+        {
+          "cell": 5,
+          "visible_bbox": [
+            26,
+            45,
+            229,
+            209
+          ],
+          "minimum_padding": 26
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "brief_mapping": true,
+    "png_decode": true,
+    "exact_size": true,
+    "true_alpha": true,
+    "empty_cells": true,
+    "cell_padding": true
+  }
+}

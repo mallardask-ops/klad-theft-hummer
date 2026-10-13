@@ -1,0 +1,877 @@
+{
+  "purpose": "Recorded CC0 Foley and vehicle/world recordings, plus licensed composed music; analogous palette for GTA III-era action. No GTA game files.",
+  "attribution_required": false,
+  "sources": [
+    {
+      "title": "Footsteps on gravels #1",
+      "page_url": "https://bigsoundbank.com/steps-on-gravels-s0510.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/0510.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-12",
+      "file": "step-gravel-0510.mp3",
+      "description": "Outdoor recording of shoes walking on gravel.",
+      "outputs": [
+        {
+          "name": "step_gravel",
+          "start": 1.16,
+          "duration": 0.48,
+          "peak": 0.65,
+          "verification": {
+            "path": "assets/audio/recorded/processed/step_gravel.wav",
+            "sha256": "1de92b7905a967fdfaa7fdfc86d49245a80c071494c2e06b63bffd7e2d587d88",
+            "duration": 0.48,
+            "rate": 22050,
+            "channels": 1,
+            "peak": 0.650014
+          }
+        },
+        {
+          "name": "step_gravel_2",
+          "start": 7.61,
+          "duration": 0.5,
+          "peak": 0.65,
+          "verification": {
+            "path": "assets/audio/recorded/processed/step_gravel_2.wav",
+            "sha256": "76980c2d2f648aaeb3cb5478f0db2dd648444f432bc4242c8a13210de58480f8",
+            "duration": 0.5,
+            "rate": 22050,
+            "channels": 1,
+            "peak": 0.650014
+          }
+        }
+      ],
+      "sha256": "eb640b57f9fd3ddd71657da35a6b447b49f99b07f3de4da17d55b6b3e731f2cb"
+    },
+    {
+      "title": "Fast Steps on Concrete",
+      "page_url": "https://bigsoundbank.com/courir-sur-beton-s1319.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/1319.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-12",
+      "file": "step-concrete-1319.mp3",
+      "description": "Outdoor recording of running on concrete; asphalt stand-in.",
+      "outputs": [
+        {
+          "name": "step",
+          "start": 0.43,
+          "duration": 0.32,
+          "peak": 0.67,
+          "verification": {
+            "path": "assets/audio/recorded/processed/step.wav",
+            "sha256": "bcb09ae76abad8ae72d2d2a468fc93a42b39cc51a033bfee5edb6835f00b565c",
+            "duration": 0.32,
+            "rate": 22050,
+            "channels": 1,
+            "peak": 0.670003
+          }
+        },
+        {
+          "name": "step_concrete_2",
+          "start": 9.93,
+          "duration": 0.32,
+          "peak": 0.67,
+          "verification": {
+            "path": "assets/audio/recorded/processed/step_concrete_2.wav",
+            "sha256": "d0f8e20372e8049b0e1e642ec329d0f8bfcae05d8b5773362a016a753db2204d",
+            "duration": 0.32,
+            "rate": 22050,
+            "channels": 1,
+            "peak": 0.670003
+          }
+        }
+      ],
+      "sha256": "56b459ad0630581b12e1b2e0d0d2455130cb084ad9d8f40670064265f2431c64"
+    },
+    {
+      "title": "Whoosh #8",
+      "page_url": "https://bigsoundbank.com/whoosh-8-s1801.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/1801.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-12",
+      "file": "swing-1801.mp3",
+      "description": "Recorded Foley: swishing a metal tube, used for the hammer swing.",
+      "outputs": [
+        {
+          "name": "swing",
+          "start": 0.02,
+          "duration": 0.7,
+          "peak": 0.6,
+          "verification": {
+            "path": "assets/audio/recorded/processed/swing.wav",
+            "sha256": "02f38dc239c7e58696ced90bb3113582972d1e385f1ab4813f9182753baf087b",
+            "duration": 0.465034,
+            "rate": 22050,
+            "channels": 1,
+            "peak": 0.599994
+          },
+          "trim_lead": true
+        }
+      ],
+      "sha256": "471bc1be9527a1ea133ec221cfa93ef0457af19013350f49f1f89c84ea0c52b1"
+    },
+    {
+      "title": "Anvil #2",
+      "page_url": "https://bigsoundbank.com/anvil-2-s3590.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/3590.mp3",
+      "creator": "Pablo BERGEL",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-12",
+      "file": "anvil-3590.mp3",
+      "description": "Recorded hammer striking an anvil. Individual technical credit takes precedence over generic site JSON-LD.",
+      "outputs": [
+        {
+          "name": "hammer_metal",
+          "start": 1.2,
+          "duration": 0.78,
+          "peak": 0.78,
+          "verification": {
+            "path": "assets/audio/recorded/processed/hammer_metal.wav",
+            "sha256": "2831e04e997429a486c567a7bd58b7640dfa0f07d4d67c30d1ec7d3624ffd718",
+            "duration": 0.724943,
+            "rate": 22050,
+            "channels": 1,
+            "peak": 0.779992
+          },
+          "trim_lead": true
+        }
+      ],
+      "sha256": "df6ffd3c5981b2bc44952d69f997719222b33c79145eb6a17ab72899e6b14110"
+    },
+    {
+      "title": "Hammer fall on concrete",
+      "page_url": "https://bigsoundbank.com/hammer-fall-on-concrete-s1108.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/1108.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-12",
+      "file": "crash-1108.mp3",
+      "description": "A real hammer dropped on concrete; metallic collision Foley, not an actual vehicle crash recording.",
+      "outputs": [
+        {
+          "name": "crash_light",
+          "start": 0.025,
+          "duration": 0.55,
+          "rate": 44100,
+          "peak": 0.65,
+          "fade_out": 0.1,
+          "verification": {
+            "path": "assets/audio/recorded/processed/crash_light.wav",
+            "sha256": "90bceca17efd57a9f4321e98e7db39d58bd7d77a5b63b03122ad893f707a4187",
+            "duration": 0.410068,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.650014
+          },
+          "trim_lead": true
+        }
+      ],
+      "sha256": "9b2735c9bf887c28ece6db3181b3300e78783c5937296c0ef7d2cdba70f570d4"
+    },
+    {
+      "title": "Car door #3",
+      "page_url": "https://bigsoundbank.com/car-door-3-s1524.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/1524.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-12",
+      "file": "door-1524.mp3",
+      "description": "Exterior Peugeot 107 door close; used as an old-car door stand-in.",
+      "outputs": [
+        {
+          "name": "door",
+          "start": 2.32,
+          "duration": 0.49,
+          "peak": 0.74,
+          "verification": {
+            "path": "assets/audio/recorded/processed/door.wav",
+            "sha256": "36b486e83d42ed590b709fd07a12e2ed292c499119f57f7d40580fd4d86051bb",
+            "duration": 0.382132,
+            "rate": 22050,
+            "channels": 1,
+            "peak": 0.740013
+          },
+          "trim_lead": true
+        }
+      ],
+      "sha256": "e6400beebf2ea4da770d6345d63d1a49cdaae1f460615b68812455b4c0d54b9c"
+    },
+    {
+      "title": "Small gasoline engine",
+      "page_url": "https://bigsoundbank.com/small-gasoline-engine-s0966.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/0966.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-12",
+      "file": "engine-0966.mp3",
+      "description": "Real Peugeot 107 1-litre gasoline engine idle. Runtime pitch follows vehicle speed; not a Zhiguli recording.",
+      "outputs": [
+        {
+          "name": "engine_start",
+          "start": 2.48,
+          "duration": 1.35,
+          "rate": 44100,
+          "peak": 0.6,
+          "fade_out": 0.15,
+          "verification": {
+            "path": "assets/audio/recorded/processed/engine_start.wav",
+            "sha256": "fc47a60da9d068bac16679b4bfb9b9cf71f3f495ed5c35b7aaee2a21cb981557",
+            "duration": 1.200204,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.599994
+          },
+          "trim_lead": true
+        }
+      ],
+      "sha256": "429f4da54f8c9b7391533cff8f3fa3a6a56953bb32f82aa0314d306650c4e7a6"
+    },
+    {
+      "title": "Gendarmerie, Outdoor Siren",
+      "page_url": "https://bigsoundbank.com/siren-french-gendarmerie-s0886.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/0886.mp3",
+      "creator": "BigSoundBank (page metadata: Joseph Sardin; no individual technical credit)",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-12",
+      "file": "siren-0886.mp3",
+      "description": "French Gendarmerie two-tone siren recorded outside a vehicle; used as a police-siren stand-in.",
+      "outputs": [
+        {
+          "name": "siren",
+          "start": 3,
+          "duration": 6,
+          "crossfade": 0.12,
+          "peak": 0.58,
+          "verification": {
+            "path": "assets/audio/recorded/processed/siren.wav",
+            "sha256": "200fc0f16afed2048b3efdd254a7aa64a754c773ae228353b905ac2c8dee4f57",
+            "duration": 5.88,
+            "rate": 22050,
+            "channels": 1,
+            "peak": 0.580004
+          }
+        }
+      ],
+      "sha256": "b071750b17c61d4c997297c975adb2beb951939c509c3b34b62cfec2a1e3ffc0"
+    },
+    {
+      "title": "Paris by Night",
+      "page_url": "https://bigsoundbank.com/paris-by-night-s0680.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/0680.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-12",
+      "file": "city-0680.mp3",
+      "description": "Real night traffic recorded at a second-floor balcony, Place Saint Augustin, Paris, around 1 a.m.; urban atmosphere stand-in.",
+      "outputs": [
+        {
+          "name": "ambience",
+          "start": 12,
+          "duration": 20,
+          "crossfade": 0.8,
+          "channels": 2,
+          "rate": 44100,
+          "peak": 0.5,
+          "verification": {
+            "path": "assets/audio/recorded/processed/ambience.wav",
+            "sha256": "2e147ec32abc28060bd1b85a6c06569f4f358c468d8f1a5148c0e1557bbc9a2a",
+            "duration": 19.2,
+            "rate": 44100,
+            "channels": 2,
+            "peak": 0.500015
+          }
+        }
+      ],
+      "sha256": "3acef3f248c8a8af23c6fef1b31d18000fcd77a14ca952f35ff2d233ac7c307c"
+    },
+    {
+      "title": "Watercourse 5.2",
+      "page_url": "https://bigsoundbank.com/watercourse-5-2-s3137.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/3137.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-12",
+      "file": "river-3137.mp3",
+      "description": "La Donnette watercourse, Bretoncelles, France, July 2024; Teteriv river stand-in. Original mono duplicated to stereo.",
+      "outputs": [
+        {
+          "name": "river",
+          "start": 10,
+          "duration": 20,
+          "crossfade": 0.8,
+          "channels": 2,
+          "rate": 44100,
+          "peak": 0.48,
+          "verification": {
+            "path": "assets/audio/recorded/processed/river.wav",
+            "sha256": "f30c7dafa1aff8960192f8de9ddf86a940dcc8e282ea083b56bdb7a39f4f170e",
+            "duration": 19.2,
+            "rate": 44100,
+            "channels": 2,
+            "peak": 0.479995
+          }
+        }
+      ],
+      "sha256": "abd49277439eb0d24448b64f041526e66a4cdb8809feddcb36351ef61a45aae6"
+    },
+    {
+      "title": "Wind in Tall Grass",
+      "page_url": "https://bigsoundbank.com/wind-in-tall-grass-s0908.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/0908.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-12",
+      "file": "wind-0908.mp3",
+      "description": "Real stereo field recording of wind in tall grass.",
+      "outputs": [
+        {
+          "name": "wind",
+          "start": 10,
+          "duration": 20,
+          "crossfade": 0.8,
+          "channels": 2,
+          "rate": 44100,
+          "peak": 0.4,
+          "verification": {
+            "path": "assets/audio/recorded/processed/wind.wav",
+            "sha256": "04932712fa07df4f8d06dff7772c883c4d7dac611b9add56a183af752dafade9",
+            "duration": 19.2,
+            "rate": 44100,
+            "channels": 2,
+            "peak": 0.400006
+          }
+        }
+      ],
+      "sha256": "153ec87a4b9889efa6c7fa3c9f7115d24a234f25d3178de0056d8cf7f30cd6c1"
+    },
+    {
+      "title": "Radio interference #3",
+      "page_url": "https://bigsoundbank.com/radio-interference-3-s2512.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/2512.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-12",
+      "file": "static-2512.mp3",
+      "description": "Real interference between two wireless audio systems; no broadcast music selected.",
+      "outputs": [
+        {
+          "name": "radio_static",
+          "start": 0.15,
+          "duration": 1.3,
+          "peak": 0.5,
+          "verification": {
+            "path": "assets/audio/recorded/processed/radio_static.wav",
+            "sha256": "c0462076d8ae39e810bc5d90315ea492f042097a0ef71ed2b67d50dc9d64ded3",
+            "duration": 1.186304,
+            "rate": 22050,
+            "channels": 1,
+            "peak": 0.500015
+          },
+          "trim_lead": true
+        }
+      ],
+      "sha256": "10b918a2384dec8d551f4aa0589379c36a954de9c8aec71c749853cd5eb98cc5"
+    },
+    {
+      "title": "Ambient Bird Sounds",
+      "page_url": "https://opengameart.org/content/ambient-bird-sounds",
+      "download_url": "https://opengameart.org/sites/default/files/birds-isaiah658_0.ogg",
+      "creator": "isaiah658",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "checked_on": "2026-10-12",
+      "file": "birds-isaiah658.ogg",
+      "description": "Birds recorded with a camera microphone, cleaned in Audacity by the author. Location unspecified; not claimed as Ukrainian bird recording.",
+      "outputs": [
+        {
+          "name": "birds",
+          "start": 2,
+          "duration": 20,
+          "crossfade": 0.8,
+          "channels": 2,
+          "rate": 44100,
+          "peak": 0.4,
+          "verification": {
+            "path": "assets/audio/recorded/processed/birds.wav",
+            "sha256": "59fb9cf6db97d93a0c8c2d54aab307a308c94f6c0b44fba764adfe3555a5e89c",
+            "duration": 19.2,
+            "rate": 44100,
+            "channels": 2,
+            "peak": 0.400006
+          }
+        }
+      ],
+      "sha256": "359e4e3f9da9d75aac64cede511c7e3ef8b461f9d9f8c230f8f80e44c4b3e35f"
+    },
+    {
+      "title": "Hurt Sound Effects",
+      "page_url": "https://opengameart.org/content/hurt-sound-effects",
+      "download_url": "https://opengameart.org/sites/default/files/hurt_01_0.mp3",
+      "creator": "EZduzziteh",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "checked_on": "2026-10-12",
+      "file": "hurt-ezduzziteh.mp3",
+      "description": "Short human vocalization made by the author for the Scootpocalypse game jam.",
+      "outputs": [
+        {
+          "name": "hurt",
+          "start": 0,
+          "duration": 0.23,
+          "peak": 0.65,
+          "fade_out": 0.02,
+          "verification": {
+            "path": "assets/audio/recorded/processed/hurt.wav",
+            "sha256": "1448fd61f94a89c682e1c0ff1593d52de331d64eaa4d49a32466c37da2203d87",
+            "duration": 0.230023,
+            "rate": 22050,
+            "channels": 1,
+            "peak": 0.650014
+          }
+        }
+      ],
+      "sha256": "45f19e4f637ff0e8936186977aa7cb131f67a95ca68660686476a47da224322e"
+    },
+    {
+      "title": "Damaged muffler (accelerations, parked car)",
+      "page_url": "https://bigsoundbank.com/damaged-muffler-accelerations-parked-car-s0675.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/0675.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-13",
+      "file": "sedan-0675.mp3",
+      "outputs": [
+        {
+          "name": "engine",
+          "start": 0.4,
+          "duration": 5,
+          "rate": 44100,
+          "crossfade": 0.2,
+          "peak": 0.68,
+          "filters": "highpass=f=35,lowpass=f=4500",
+          "verification": {
+            "path": "assets/audio/recorded/processed/engine.wav",
+            "sha256": "0dd1ed8dd6232cfb7cd1c011d0fefd9ba05b611e6569a98e1a17a0899b618e81",
+            "duration": 4.8,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.680013
+          }
+        },
+        {
+          "name": "engine_load",
+          "start": 7.35,
+          "duration": 1.5,
+          "rate": 44100,
+          "crossfade": 0.12,
+          "peak": 0.67,
+          "filters": "highpass=f=35,lowpass=f=4000",
+          "verification": {
+            "path": "assets/audio/recorded/processed/engine_load.wav",
+            "sha256": "e63308c95b2eed6685b7ca5b7b95de4d20638fd6ff7ac8aa100cd37977df70fd",
+            "duration": 1.38,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.670003
+          }
+        }
+      ],
+      "sha256": "62858db6e69c0df66ae1f77f13d9fa3cea16cf28ee1a9cf62b825644fd0b70fa"
+    },
+    {
+      "title": "Car on a Road",
+      "page_url": "https://bigsoundbank.com/car-on-a-road-s1286.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/1286.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-13",
+      "file": "road-1286.mp3",
+      "outputs": [
+        {
+          "name": "road",
+          "start": 40,
+          "duration": 6,
+          "rate": 44100,
+          "crossfade": 0.2,
+          "peak": 0.52,
+          "filters": "highpass=f=600,lowpass=f=5000",
+          "verification": {
+            "path": "assets/audio/recorded/processed/road.wav",
+            "sha256": "916c83f2a3c26cff912d723397967d8dd6bff4cbc17e0f9dd2e5143252dd479e",
+            "duration": 5.8,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.520005
+          }
+        }
+      ],
+      "sha256": "b7e0e45b264c2a5fa0a38f06d5f03872deee09c0487286e701d391c66172e2c6"
+    },
+    {
+      "title": "Truck engine",
+      "page_url": "https://bigsoundbank.com/truck-engine-s1145.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/1145.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-13",
+      "file": "diesel-1145.mp3",
+      "outputs": [
+        {
+          "name": "diesel_idle",
+          "start": 4,
+          "duration": 5.2,
+          "rate": 44100,
+          "crossfade": 0.22,
+          "peak": 0.68,
+          "filters": "highpass=f=30,lowpass=f=4000",
+          "verification": {
+            "path": "assets/audio/recorded/processed/diesel_idle.wav",
+            "sha256": "1ed9d178086fb7756cc4831776e79597a838f00a95343c6b19625267fb9b5dcc",
+            "duration": 4.98,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.680013
+          }
+        }
+      ],
+      "sha256": "a46aef72f61f2aa56d12a6eb8b8442fea6ed06725bb2e88f6c9aeb71fa23fcf3"
+    },
+    {
+      "title": "Screeching Tires #1",
+      "page_url": "https://bigsoundbank.com/screeching-tires-1-s2368.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/2368.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-13",
+      "file": "tires-2368.mp3",
+      "outputs": [
+        {
+          "name": "tires",
+          "start": 0.2,
+          "duration": 0.9,
+          "rate": 44100,
+          "crossfade": 0.08,
+          "peak": 0.6,
+          "verification": {
+            "path": "assets/audio/recorded/processed/tires.wav",
+            "sha256": "fce15a65e3028230e0865c1be2151f5a733608a6d9d394ef2efafdb16a70ba07",
+            "duration": 0.82,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.599994
+          }
+        }
+      ],
+      "sha256": "27acdf2db9b9d28dd2ed21adba1f98bc62cb64eb3a23299154efdcf0d430e25f"
+    },
+    {
+      "title": "Falling sheet steel bar #4",
+      "page_url": "https://bigsoundbank.com/falling-sheet-steel-bar-4-s1774.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/1774.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-13",
+      "file": "metal-crash-1774.mp3",
+      "outputs": [
+        {
+          "name": "crash",
+          "start": 0.105,
+          "duration": 1.0,
+          "rate": 44100,
+          "peak": 0.78,
+          "fade_in": 0.002,
+          "fade_out": 0.12,
+          "filters": "highpass=f=45,lowpass=f=5000",
+          "verification": {
+            "path": "assets/audio/recorded/processed/crash.wav",
+            "sha256": "e522d45ec42981fa7c51d220447436f9f8349f6f47b5583a2251518e0e2e54ba",
+            "duration": 1.0,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.779992
+          }
+        }
+      ],
+      "sha256": "301b329fda13083dd6069d00e040e33b8d744006a561ff955dee68d6c669810e"
+    },
+    {
+      "title": "Raspberry Mouse, Single Click",
+      "page_url": "https://bigsoundbank.com/raspberry-mouse-single-click-s1735.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/1735.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-13",
+      "file": "ui-click-1735.mp3",
+      "outputs": [
+        {
+          "name": "ui",
+          "start": 0.113,
+          "duration": 0.08,
+          "rate": 44100,
+          "peak": 0.5,
+          "fade_in": 0.001,
+          "fade_out": 0.015,
+          "verification": {
+            "path": "assets/audio/recorded/processed/ui.wav",
+            "sha256": "1f2bad94723d34b3870f8b87baea5a72b3ca8f67305eb32b74efd751cf924b47",
+            "duration": 0.08,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.500015
+          }
+        },
+        {
+          "name": "ui_accept",
+          "start": 0.212,
+          "duration": 0.1,
+          "rate": 44100,
+          "peak": 0.55,
+          "fade_in": 0.001,
+          "fade_out": 0.02,
+          "verification": {
+            "path": "assets/audio/recorded/processed/ui_accept.wav",
+            "sha256": "c89765c1030941b783f09576dbf9b8257f0ce5dd1a8ebcaf0fe6092bb01c778f",
+            "duration": 0.1,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.550005
+          }
+        }
+      ],
+      "sha256": "e476a4526e7da72cae5090cbbb02b217fef77fda17ad5e067bc65ea42a39bcde"
+    },
+    {
+      "title": "Coin in cup #1",
+      "page_url": "https://bigsoundbank.com/coin-in-cup-1-s0339.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/0339.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-13",
+      "file": "coin-0339.mp3",
+      "outputs": [
+        {
+          "name": "pickup",
+          "start": 0.06,
+          "duration": 0.6,
+          "rate": 44100,
+          "peak": 0.6,
+          "fade_in": 0.002,
+          "fade_out": 0.07,
+          "verification": {
+            "path": "assets/audio/recorded/processed/pickup.wav",
+            "sha256": "91ceea36621a4fa6ccd4b2b0412f16a52ca61c9f229080159813f79c13e66687",
+            "duration": 0.6,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.599994
+          }
+        }
+      ],
+      "sha256": "dab28c2e93757d736d007e3b7be6c0b4446e5b255770616c258f39687fa5ae9d"
+    },
+    {
+      "title": "Punch #5",
+      "page_url": "https://bigsoundbank.com/punch-5-s2460.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/2460.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-13",
+      "file": "body-impact-2460.mp3",
+      "outputs": [
+        {
+          "name": "impact",
+          "start": 0.105,
+          "duration": 0.32,
+          "rate": 44100,
+          "peak": 0.74,
+          "fade_in": 0.002,
+          "fade_out": 0.05,
+          "verification": {
+            "path": "assets/audio/recorded/processed/impact.wav",
+            "sha256": "bf16e8f6ae05fbe133f129c790adc1410020f771c9ab3172b896622f80b51155",
+            "duration": 0.32,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.740013
+          }
+        }
+      ],
+      "sha256": "862936cddb0a21a03a9b96ac89e0519545ab0668983e6e9b09f3659f5ebd1666"
+    },
+    {
+      "title": "Vinyl Scratch #18",
+      "page_url": "https://bigsoundbank.com/vinyl-scratch-18-s2875.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/2875.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-13",
+      "file": "scratch-2875.mp3",
+      "outputs": [
+        {
+          "name": "mission_start",
+          "start": 0.03,
+          "duration": 0.35,
+          "rate": 44100,
+          "peak": 0.5,
+          "fade_in": 0.004,
+          "fade_out": 0.04,
+          "verification": {
+            "path": "assets/audio/recorded/processed/mission_start.wav",
+            "sha256": "3e69715cbad362c2329fb17d9e155df86aa34863b710d8eecf7e185216a41730",
+            "duration": 0.278186,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.499985
+          },
+          "trim_lead": true
+        },
+        {
+          "name": "fail",
+          "start": 0.03,
+          "duration": 0.71,
+          "rate": 44100,
+          "peak": 0.65,
+          "fade_in": 0.004,
+          "fade_out": 0.1,
+          "verification": {
+            "path": "assets/audio/recorded/processed/fail.wav",
+            "sha256": "832b3d15dc7f01fde2341e6ece04d6663967597f6331955f460bcce147f50117",
+            "duration": 0.638186,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.650014
+          },
+          "trim_lead": true
+        }
+      ],
+      "sha256": "eb3748bd67959c2562f707ace5cf61c494899e45af67978396ae17dadc3eba02"
+    },
+    {
+      "title": "Funked Up",
+      "page_url": "https://opengameart.org/content/funked-up",
+      "download_url": "https://opengameart.org/sites/default/files/Funked%20Up.mp3",
+      "creator": "Joth",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "checked_on": "2026-10-13",
+      "file": "funked-up-joth.mp3",
+      "outputs": [
+        {
+          "name": "radio",
+          "start": 0,
+          "duration": 66.25,
+          "rate": 44100,
+          "format": "ogg",
+          "channels": 2,
+          "crossfade": 0.008,
+          "peak": 0.78,
+          "verification": {
+            "path": "assets/audio/recorded/processed/radio.ogg",
+            "sha256": "ed4995ae91f8104f6b46f3d388bf9542280edd9c42c5b3a5e881dcfa548b48ba",
+            "duration": 66.242018,
+            "rate": 44100,
+            "channels": 2,
+            "peak": 0.779992
+          }
+        },
+        {
+          "name": "mission_pass",
+          "start": 0.014,
+          "duration": 4.14,
+          "rate": 44100,
+          "channels": 2,
+          "peak": 0.7,
+          "fade_in": 0.01,
+          "fade_out": 0.28,
+          "verification": {
+            "path": "assets/audio/recorded/processed/mission_pass.wav",
+            "sha256": "26564f45f2df89f0393233db2e00f96ef964d320a14fe60ee33bbd92019ab5e8",
+            "duration": 4.14,
+            "rate": 44100,
+            "channels": 2,
+            "peak": 0.700003
+          }
+        }
+      ],
+      "sha256": "57cd81254a0f4e068535c5421f93b586514332ad2377f81aea190dd91659fff3"
+    },
+    {
+      "title": "Truck engine, big accelerations",
+      "page_url": "https://bigsoundbank.com/truck-engine-big-accelerations-s1147.html",
+      "download_url": "https://bigsoundbank.com/UPLOAD/mp3/1147.mp3",
+      "creator": "Joseph SARDIN",
+      "license": "CC0 1.0 Universal",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page": "https://bigsoundbank.com/licenses.html",
+      "checked_on": "2026-10-13",
+      "file": "diesel-rev-1147.mp3",
+      "outputs": [
+        {
+          "name": "diesel_load",
+          "start": 6,
+          "duration": 2.2,
+          "rate": 44100,
+          "crossfade": 0.18,
+          "peak": 0.67,
+          "filters": "highpass=f=30,lowpass=f=4000",
+          "verification": {
+            "path": "assets/audio/recorded/processed/diesel_load.wav",
+            "sha256": "445063bb0f898ca14eab3b10bb60b7e32df73d1a854c37bc82575dbde40a3de4",
+            "duration": 2.02,
+            "rate": 44100,
+            "channels": 1,
+            "peak": 0.670003
+          }
+        }
+      ],
+      "sha256": "c2c43acdcc6c4b272d0f90e1918f85ec80c55633024dc1141124513a022cdf40"
+    }
+  ],
+  "procedural_runtime_assets": [],
+  "mixed_runtime_assets": {},
+  "music_source": "Funked Up — Joth (CC0); no runtime or build-time oscillators/noise generator."
+}

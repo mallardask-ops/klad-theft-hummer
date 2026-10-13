@@ -1,0 +1,107 @@
+[
+  {
+    "asset": "npc_worker",
+    "nodes": 15,
+    "meshes": 7,
+    "animations": [
+      "idle",
+      "walk",
+      "run",
+      "attack"
+    ],
+    "bytes": 340116,
+    "image_count": 11
+  },
+  {
+    "asset": "hammer",
+    "nodes": 2,
+    "meshes": 1,
+    "animations": [],
+    "bytes": 46620,
+    "image_count": 3
+  },
+  {
+    "asset": "sedan",
+    "nodes": 24,
+    "meshes": 12,
+    "animations": [],
+    "bytes": 327628,
+    "image_count": 10
+  },
+  {
+    "asset": "police_sedan",
+    "nodes": 28,
+    "meshes": 14,
+    "animations": [],
+    "bytes": 456588,
+    "image_count": 13
+  },
+  {
+    "asset": "minibus",
+    "nodes": 24,
+    "meshes": 12,
+    "animations": [],
+    "bytes": 357652,
+    "image_count": 11
+  },
+  {
+    "asset": "stone_monument",
+    "nodes": 2,
+    "meshes": 1,
+    "animations": [],
+    "bytes": 260012,
+    "image_count": 2
+  },
+  {
+    "asset": "edik",
+    "nodes": 15,
+    "meshes": 7,
+    "animations": [
+      "idle",
+      "walk",
+      "run",
+      "attack"
+    ],
+    "bytes": 337728,
+    "image_count": 10
+  },
+  {
+    "asset": "serhiy",
+    "nodes": 15,
+    "meshes": 7,
+    "animations": [
+      "idle",
+      "walk",
+      "run",
+      "attack"
+    ],
+    "bytes": 334560,
+    "image_count": 11
+  },
+  {
+    "asset": "cyber",
+    "nodes": 15,
+    "meshes": 7,
+    "animations": [
+      "idle",
+      "walk",
+      "run",
+      "attack"
+    ],
+    "bytes": 373828,
+    "image_count": 13
+  },
+  {
+    "asset": "podrina",
+    "nodes": 15,
+    "meshes": 7,
+    "animations": [
+      "idle",
+      "walk",
+      "run",
+      "attack"
+    ],
+    "bytes": 343232,
+    "image_count": 11
+  }
+]

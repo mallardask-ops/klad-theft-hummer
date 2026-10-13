@@ -1,0 +1,67 @@
+[
+	{
+		"duration": 1.02167800453515,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/01-menu.wav",
+		"phase": "01-menu"
+	},
+	{
+		"duration": 1.48607709750567,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/02-footsteps.wav",
+		"phase": "02-footsteps"
+	},
+	{
+		"duration": 1.57895691609977,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/03-door-and-idle.wav",
+		"phase": "03-door-and-idle"
+	},
+	{
+		"duration": 1.85759637188209,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/04-acceleration.wav",
+		"phase": "04-acceleration"
+	},
+	{
+		"duration": 1.20743764172336,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/05-braking.wav",
+		"phase": "05-braking"
+	},
+	{
+		"duration": 1.95047619047619,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/06-collisions.wav",
+		"phase": "06-collisions"
+	},
+	{
+		"duration": 1.39319727891156,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/07-body-and-metal.wav",
+		"phase": "07-body-and-metal"
+	},
+	{
+		"duration": 2.1362358276644,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/08-diesel.wav",
+		"phase": "08-diesel"
+	},
+	{
+		"duration": 4.55111111111111,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/09-mission-and-dense-mix.wav",
+		"phase": "09-mission-and-dense-mix"
+	},
+	{
+		"duration": 0.743038548752834,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/10-pause.wav",
+		"phase": "10-pause"
+	},
+	{
+		"duration": 0.708208616780045,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/11-muted.wav",
+		"phase": "11-muted"
+	},
+	{
+		"duration": 1.57895691609977,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/12-siren-right.wav",
+		"phase": "12-siren-right"
+	},
+	{
+		"duration": 1.20743764172336,
+		"path": "res://artifacts/audio_refresh/validation/replay-fifth/13-failure.wav",
+		"phase": "13-failure"
+	}
+]

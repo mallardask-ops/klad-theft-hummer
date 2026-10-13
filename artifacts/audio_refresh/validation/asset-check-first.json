@@ -1,0 +1,269 @@
+{
+  "status": "fail",
+  "assets": {
+    "step_gravel.wav": {
+      "peak": 0.649994,
+      "peak_db": -3.74,
+      "rms_db": -27.65,
+      "full_scale_samples": 0,
+      "duration": 0.48,
+      "onset_ms": 10.43
+    },
+    "step_gravel_2.wav": {
+      "peak": 0.649994,
+      "peak_db": -3.74,
+      "rms_db": -26.9,
+      "full_scale_samples": 0,
+      "duration": 0.5,
+      "onset_ms": 24.08
+    },
+    "step.wav": {
+      "peak": 0.669983,
+      "peak_db": -3.48,
+      "rms_db": -27.92,
+      "full_scale_samples": 0,
+      "duration": 0.32,
+      "onset_ms": 19.27
+    },
+    "step_concrete_2.wav": {
+      "peak": 0.669983,
+      "peak_db": -3.48,
+      "rms_db": -32.1,
+      "full_scale_samples": 0,
+      "duration": 0.32,
+      "onset_ms": 17.23
+    },
+    "swing.wav": {
+      "peak": 0.599976,
+      "peak_db": -4.44,
+      "rms_db": -23.47,
+      "full_scale_samples": 0,
+      "duration": 0.7,
+      "onset_ms": 238.96
+    },
+    "hammer_metal.wav": {
+      "peak": 0.779968,
+      "peak_db": -2.16,
+      "rms_db": -19.26,
+      "full_scale_samples": 0,
+      "duration": 0.78,
+      "onset_ms": 59.05
+    },
+    "crash_light.wav": {
+      "peak": 0.649994,
+      "peak_db": -3.74,
+      "rms_db": -34.53,
+      "full_scale_samples": 0,
+      "duration": 0.55,
+      "onset_ms": 143.92
+    },
+    "door.wav": {
+      "peak": 0.73999,
+      "peak_db": -2.62,
+      "rms_db": -22.07,
+      "full_scale_samples": 0,
+      "duration": 0.49,
+      "onset_ms": 111.88
+    },
+    "engine_start.wav": {
+      "peak": 0.599976,
+      "peak_db": -4.44,
+      "rms_db": -22.58,
+      "full_scale_samples": 0,
+      "duration": 1.35,
+      "onset_ms": 153.79
+    },
+    "siren.wav": {
+      "peak": 0.579987,
+      "peak_db": -4.73,
+      "rms_db": -14.31,
+      "full_scale_samples": 0,
+      "duration": 5.88,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.095398
+    },
+    "ambience.wav": {
+      "peak": 0.5,
+      "peak_db": -6.02,
+      "rms_db": -22.48,
+      "full_scale_samples": 0,
+      "duration": 19.2,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.00293
+    },
+    "river.wav": {
+      "peak": 0.47998,
+      "peak_db": -6.38,
+      "rms_db": -43.49,
+      "full_scale_samples": 0,
+      "duration": 19.2,
+      "onset_ms": 16.85,
+      "loop_seam_step": 9.2e-05
+    },
+    "wind.wav": {
+      "peak": 0.399994,
+      "peak_db": -7.96,
+      "rms_db": -32.09,
+      "full_scale_samples": 0,
+      "duration": 19.2,
+      "onset_ms": 0.02,
+      "loop_seam_step": 0.012878
+    },
+    "radio_static.wav": {
+      "peak": 0.5,
+      "peak_db": -6.02,
+      "rms_db": -24.95,
+      "full_scale_samples": 0,
+      "duration": 1.3,
+      "onset_ms": 117.69
+    },
+    "birds.wav": {
+      "peak": 0.399994,
+      "peak_db": -7.96,
+      "rms_db": -32.43,
+      "full_scale_samples": 0,
+      "duration": 19.2,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.023499
+    },
+    "hurt.wav": {
+      "peak": 0.649994,
+      "peak_db": -3.74,
+      "rms_db": -18.7,
+      "full_scale_samples": 0,
+      "duration": 0.23,
+      "onset_ms": 23.22
+    },
+    "engine.wav": {
+      "peak": 0.679993,
+      "peak_db": -3.35,
+      "rms_db": -18.1,
+      "full_scale_samples": 0,
+      "duration": 4.8,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.003784
+    },
+    "engine_load.wav": {
+      "peak": 0.669983,
+      "peak_db": -3.48,
+      "rms_db": -19.18,
+      "full_scale_samples": 0,
+      "duration": 1.38,
+      "onset_ms": 0.27,
+      "loop_seam_step": 0.00061
+    },
+    "road.wav": {
+      "peak": 0.519989,
+      "peak_db": -5.68,
+      "rms_db": -21.43,
+      "full_scale_samples": 0,
+      "duration": 5.8,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.034607
+    },
+    "diesel_idle.wav": {
+      "peak": 0.679993,
+      "peak_db": -3.35,
+      "rms_db": -13.82,
+      "full_scale_samples": 0,
+      "duration": 4.98,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.005096
+    },
+    "tires.wav": {
+      "peak": 0.599976,
+      "peak_db": -4.44,
+      "rms_db": -15.31,
+      "full_scale_samples": 0,
+      "duration": 0.82,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.03949
+    },
+    "crash.wav": {
+      "peak": 0.779968,
+      "peak_db": -2.16,
+      "rms_db": -20.19,
+      "full_scale_samples": 0,
+      "duration": 1.0,
+      "onset_ms": 12.7
+    },
+    "ui.wav": {
+      "peak": 0.5,
+      "peak_db": -6.02,
+      "rms_db": -23.55,
+      "full_scale_samples": 0,
+      "duration": 0.08,
+      "onset_ms": 16.12
+    },
+    "ui_accept.wav": {
+      "peak": 0.549988,
+      "peak_db": -5.19,
+      "rms_db": -31.1,
+      "full_scale_samples": 0,
+      "duration": 0.1,
+      "onset_ms": 11.9
+    },
+    "pickup.wav": {
+      "peak": 0.599976,
+      "peak_db": -4.44,
+      "rms_db": -22.98,
+      "full_scale_samples": 0,
+      "duration": 0.6,
+      "onset_ms": 14.2
+    },
+    "impact.wav": {
+      "peak": 0.73999,
+      "peak_db": -2.62,
+      "rms_db": -29.97,
+      "full_scale_samples": 0,
+      "duration": 0.32,
+      "onset_ms": 21.88
+    },
+    "mission_start.wav": {
+      "peak": 0.499969,
+      "peak_db": -6.02,
+      "rms_db": -18.95,
+      "full_scale_samples": 0,
+      "duration": 0.35,
+      "onset_ms": 75.8
+    },
+    "fail.wav": {
+      "peak": 0.649994,
+      "peak_db": -3.74,
+      "rms_db": -17.22,
+      "full_scale_samples": 0,
+      "duration": 0.71,
+      "onset_ms": 75.8
+    },
+    "radio.ogg": {
+      "peak": 0.774835,
+      "peak_db": -2.22,
+      "rms_db": -15.93,
+      "full_scale_samples": 0,
+      "duration": 66.242,
+      "onset_ms": 15.96,
+      "loop_seam_step": 0.000966
+    },
+    "mission_pass.wav": {
+      "peak": 0.699982,
+      "peak_db": -3.1,
+      "rms_db": -19.16,
+      "full_scale_samples": 0,
+      "duration": 4.14,
+      "onset_ms": 9.95
+    },
+    "diesel_load.wav": {
+      "peak": 0.669983,
+      "peak_db": -3.48,
+      "rms_db": -16.9,
+      "full_scale_samples": 0,
+      "duration": 2.02,
+      "onset_ms": 0.0,
+      "loop_seam_step": 0.053894
+    }
+  },
+  "runtime_phases": {},
+  "errors": [
+    "Late action transient: swing.wav"
+  ]
+}

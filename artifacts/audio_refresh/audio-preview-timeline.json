@@ -1,0 +1,72 @@
+[
+  {
+    "label": "Кроки",
+    "start": 0.0,
+    "duration": 1.393,
+    "source": "02-footsteps.wav",
+    "source_start": 0
+  },
+  {
+    "label": "Двері та холостий хід",
+    "start": 1.643,
+    "duration": 1.6,
+    "source": "03-door-and-idle.wav",
+    "source_start": 0
+  },
+  {
+    "label": "Газ і дорога",
+    "start": 3.493,
+    "duration": 1.95,
+    "source": "04-acceleration.wav",
+    "source_start": 0
+  },
+  {
+    "label": "Гальмування",
+    "start": 5.693,
+    "duration": 1.2,
+    "source": "05-braking.wav",
+    "source_start": 0
+  },
+  {
+    "label": "Зіткнення",
+    "start": 7.143,
+    "duration": 1.95,
+    "source": "06-collisions.wav",
+    "source_start": 0
+  },
+  {
+    "label": "Удар по людині та металу",
+    "start": 9.344,
+    "duration": 1.35,
+    "source": "07-body-and-metal.wav",
+    "source_start": 0
+  },
+  {
+    "label": "Маршрутка",
+    "start": 10.944,
+    "duration": 2.136,
+    "source": "08-diesel.wav",
+    "source_start": 0
+  },
+  {
+    "label": "Успіх місії та приглушене радіо",
+    "start": 13.33,
+    "duration": 2.8,
+    "source": "09-mission-and-dense-mix.wav",
+    "source_start": 1.1
+  },
+  {
+    "label": "Просторова сирена",
+    "start": 16.38,
+    "duration": 1.486,
+    "source": "12-siren-right.wav",
+    "source_start": 0
+  },
+  {
+    "label": "Провал місії",
+    "start": 18.116,
+    "duration": 1.115,
+    "source": "13-failure.wav",
+    "source_start": 0
+  }
+]

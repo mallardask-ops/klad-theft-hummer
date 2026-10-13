@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-13",
+  "generator": "built-in imagegen",
+  "delivery": "sheets; user confirmed sheets",
+  "direction": "User corrected: simpler, stricter, fixed palette matching GTA III",
+  "prompts": [
+    {
+      "file": "sheet_a_weapons.png",
+      "grid": [
+        4,
+        4
+      ],
+      "ids": [
+        "fist",
+        "hammer",
+        "pan",
+        "bat",
+        "crowbar",
+        "makarov",
+        "sawnoff",
+        "ak",
+        "uzi",
+        "molotov",
+        "grenade"
+      ],
+      "prefix": "weapon",
+      "target_size": 256,
+      "prompt": "Use case: stylized-concept. Asset type: original strict simple GTA III (2001 original PC) HUD icon sprite sheet for Klad Theft Hummer: Коростишів. This is tiny old game HUD art, drawn with a blunt black brush and just TWO solid color fills, not polished detailed game concept art. Reduce every subject to a compact hard recognizable silhouette, 2–5 major interior black shapes at most. Thick BLACK contour of exactly consistent weight across all icons, angular restrained drawing, firm straight edges. NO surface textures, grain, wear speckles, scratches, engravings, fine hatching, realistic shading, gradients, gloss, bevels, soft lighting, 3D volume, tiny mechanical features, decorative embellishment or fine highlights. Only the fixed limited palette stated below, large flat areas with one hard shadow shape. Use no more detail than an original 32px GTA III weapon icon; at 32px each icon should remain almost unchanged in meaning. Center each whole silhouette inside its invisible cell with at least 12% empty padding. EXACT square 1024×1024 transparent PNG, invisible 4×4 grid, 256×256 cell. Entirely transparent unused cells. No background, floor, cast shadow, checkerboard, border, drawn grid, captions, numbers, lettering or watermark. Strict occupied-cell positions, left to right then top to bottom; never reflow only occupied cells to fill the image.\nPalette for EVERY weapon, regardless of material: BLACK #111111 + flat ochre #D6A028 + flat pale ochre #F4C35A ONLY. Every weapon has the SAME amber/black duotone treatment as the original GTA III PC HUD. No individual natural-material colors. EXACTLY 11 occupied cells. Row 1: clenched fist with BLACK jacket cuff and 3 simple knuckle creases; simple metalworker cross-peen hammer with rectangular head and wooden handle, diagonally posed; plain cast-iron frying pan as round bowl plus straight handle, diagonal; wooden baseball bat with grip represented by just TWO black tape bands. Row 2: bent crowbar with hooked head; Makarov pistol in blunt side profile, no star on grip, no tiny mechanisms; short double-barrel sawed-off shotgun, two clear short muzzle openings and simple grip; AK-22 assault rifle in full side silhouette, wooden stock recognizable by shape, curved magazine. Row 3: Uzi full side silhouette, short barrel and box magazine; diagonal plain bottle Molotov with ONE small chunky flame shape; F-1 grenade with only 4–6 big black grooves and simple ring. Row 3 cell 4 EMPTY. Row 4 all EMPTY. Scale each icon to about 75% of cell along longest dimension. Firm, restrained, crude but readable original GTA III weapon icons."
+    },
+    {
+      "file": "sheet_b_hud.png",
+      "grid": [
+        4,
+        4
+      ],
+      "ids": [
+        "health",
+        "armor",
+        "wanted_on",
+        "wanted_off"
+      ],
+      "prefix": "hud",
+      "target_size": 128,
+      "prompt": "Use case: stylized-concept. Asset type: original strict simple GTA III (2001 original PC) HUD icon sprite sheet for Klad Theft Hummer: Коростишів. This is tiny old game HUD art, drawn with a blunt black brush and just TWO solid color fills, not polished detailed game concept art. Reduce every subject to a compact hard recognizable silhouette, 2–5 major interior black shapes at most. Thick BLACK contour of exactly consistent weight across all icons, angular restrained drawing, firm straight edges. NO surface textures, grain, wear speckles, scratches, engravings, fine hatching, realistic shading, gradients, gloss, bevels, soft lighting, 3D volume, tiny mechanical features, decorative embellishment or fine highlights. Only the fixed limited palette stated below, large flat areas with one hard shadow shape. Use no more detail than an original 32px GTA III weapon icon; at 32px each icon should remain almost unchanged in meaning. Center each whole silhouette inside its invisible cell with at least 12% empty padding. EXACT square 1024×1024 transparent PNG, invisible 4×4 grid, 256×256 cell. Entirely transparent unused cells. No background, floor, cast shadow, checkerboard, border, drawn grid, captions, numbers, lettering or watermark. Strict occupied-cell positions, left to right then top to bottom; never reflow only occupied cells to fill the image.\nFixed functional HUD palettes, all with SAME thick black outline and at most TWO flat fill tones per icon: pink #DB4C73 + dark pink #962C49 heart; blue-gray #91A6B5 + dark blue-gray #526875 armor; ochre #D6A028 + pale ochre #F4C35A active star; gray #535353 inactive star. EXACTLY FOUR icons all in TOP ROW, all later cells EMPTY. Row 1: perfectly simple pink heart silhouette with ONE solid dark side plane, NO glossy shine; simplified front body armor as two shoulder straps and ONE plain broad plate, at most TWO interior seams; filled symmetric five-point wanted star, flat pale ochre center and thick black edge, NO faceted or beveled surface; exact identical five-point star shape but dark gray outline and fully transparent center, inactive. All four icons equal apparent size; flat austere early GTA III HUD symbols, no realistic vest panel details."
+    },
+    {
+      "file": "sheet_c_services.png",
+      "grid": [
+        4,
+        4
+      ],
+      "ids": [
+        "safehouse",
+        "respray",
+        "gunshop",
+        "bombshop",
+        "hospital",
+        "police",
+        "cafe",
+        "market",
+        "busstation",
+        "fuel"
+      ],
+      "prefix": "blip",
+      "target_size": 128,
+      "prompt": "Use case: stylized-concept. Asset type: original strict simple GTA III (2001 original PC) HUD icon sprite sheet for Klad Theft Hummer: Коростишів. This is tiny old game HUD art, drawn with a blunt black brush and just TWO solid color fills, not polished detailed game concept art. Reduce every subject to a compact hard recognizable silhouette, 2–5 major interior black shapes at most. Thick BLACK contour of exactly consistent weight across all icons, angular restrained drawing, firm straight edges. NO surface textures, grain, wear speckles, scratches, engravings, fine hatching, realistic shading, gradients, gloss, bevels, soft lighting, 3D volume, tiny mechanical features, decorative embellishment or fine highlights. Only the fixed limited palette stated below, large flat areas with one hard shadow shape. Use no more detail than an original 32px GTA III weapon icon; at 32px each icon should remain almost unchanged in meaning. Center each whole silhouette inside its invisible cell with at least 12% empty padding. EXACT square 1024×1024 transparent PNG, invisible 4×4 grid, 256×256 cell. Entirely transparent unused cells. No background, floor, cast shadow, checkerboard, border, drawn grid, captions, numbers, lettering or watermark. Strict occupied-cell positions, left to right then top to bottom; never reflow only occupied cells to fill the image.\nFixed palette: BLACK #111111, pale cream #F1D78D, ochre #D6A028 ONLY, with red #CC3B35 allowed ONLY for the requested medical cross. One heavy black outline and at most ONE interior black separator; map symbols simplified to only the meaningful shape, readable at 24px. EXACTLY TEN icons. Row 1: squat house with plain door; aerosol paint can with nozzle and one horizontal band; hunting shotgun side silhouette; old button mobile phone with only a plain screen and TWO loose wire strokes. Row 2: flat RED medical cross with black outline; militia peaked cap, simple crown and black visor; takeaway coffee cup, plain black lid and one sleeve; market canopy over a simple crate, two vegetables shapes maximum. Row 3: marshrutka minibus FRONT view, simple rectangular cream body, black windshield and two lights, NO numbers; fuel can with a big simple X indentation and top handle; EMPTY; EMPTY. Row 4 all EMPTY. Every symbol same duotone family and same scale, no vehicle realism or object textures."
+    },
+    {
+      "file": "sheet_c_activities.png",
+      "grid": [
+        4,
+        4
+      ],
+      "ids": [
+        "marshrutka",
+        "vigilante",
+        "ambulance",
+        "delivery",
+        "race",
+        "cliffjump",
+        "fishing",
+        "rampage",
+        "package"
+      ],
+      "prefix": "blip",
+      "target_size": 128,
+      "prompt": "Use case: stylized-concept. Asset type: original strict simple GTA III (2001 original PC) HUD icon sprite sheet for Klad Theft Hummer: Коростишів. This is tiny old game HUD art, drawn with a blunt black brush and just TWO solid color fills, not polished detailed game concept art. Reduce every subject to a compact hard recognizable silhouette, 2–5 major interior black shapes at most. Thick BLACK contour of exactly consistent weight across all icons, angular restrained drawing, firm straight edges. NO surface textures, grain, wear speckles, scratches, engravings, fine hatching, realistic shading, gradients, gloss, bevels, soft lighting, 3D volume, tiny mechanical features, decorative embellishment or fine highlights. Only the fixed limited palette stated below, large flat areas with one hard shadow shape. Use no more detail than an original 32px GTA III weapon icon; at 32px each icon should remain almost unchanged in meaning. Center each whole silhouette inside its invisible cell with at least 12% empty padding. EXACT square 1024×1024 transparent PNG, invisible 4×4 grid, 256×256 cell. Entirely transparent unused cells. No background, floor, cast shadow, checkerboard, border, drawn grid, captions, numbers, lettering or watermark. Strict occupied-cell positions, left to right then top to bottom; never reflow only occupied cells to fill the image.\nFixed palette: BLACK #111111, pale cream #F1D78D, ochre #D6A028 ONLY, with red #CC3B35 allowed ONLY for ambulance medical cross and blue #577F9C ONLY for the beacon and water. Heavy black outline, at most 1–3 major internal shapes, readable at 24px. EXACTLY NINE icons. Row 1: marshrutka minibus in blunt three-quarter view with blank roof route placard, no numbers; blue police beacon, plain dome and base; ambulance SIDE silhouette with red cross and two plain black wheels; plain ochre coffee cup with TWO simple cream wings as integrated emblem. Row 2: checkered race flag, just 3×3 big alternating black/cream squares; black human jumping from one angular ochre quarry ledge over TWO flat blue wave strokes, compact silhouette; fish in side view with one eye and one fin; diagonally crossed hammer and simple ivory skull, no gore, one compact emblem. Row 3: gold coffee packet, simple rectangle with folded top and a single coffee-bean shape, no text; remaining cells EMPTY. Row 4 all EMPTY."
+    },
+    {
+      "file": "sheet_d_pickups.png",
+      "grid": [
+        4,
+        4
+      ],
+      "ids": [
+        "health",
+        "armor",
+        "package",
+        "rampage"
+      ],
+      "prefix": "pickup",
+      "target_size": 256,
+      "prompt": "Use case: stylized-concept. Asset type: original strict simple GTA III (2001 original PC) HUD icon sprite sheet for Klad Theft Hummer: Коростишів. This is tiny old game HUD art, drawn with a blunt black brush and just TWO solid color fills, not polished detailed game concept art. Reduce every subject to a compact hard recognizable silhouette, 2–5 major interior black shapes at most. Thick BLACK contour of exactly consistent weight across all icons, angular restrained drawing, firm straight edges. NO surface textures, grain, wear speckles, scratches, engravings, fine hatching, realistic shading, gradients, gloss, bevels, soft lighting, 3D volume, tiny mechanical features, decorative embellishment or fine highlights. Only the fixed limited palette stated below, large flat areas with one hard shadow shape. Use no more detail than an original 32px GTA III weapon icon; at 32px each icon should remain almost unchanged in meaning. Center each whole silhouette inside its invisible cell with at least 12% empty padding. EXACT square 1024×1024 transparent PNG, invisible 4×4 grid, 256×256 cell. Entirely transparent unused cells. No background, floor, cast shadow, checkerboard, border, drawn grid, captions, numbers, lettering or watermark. Strict occupied-cell positions, left to right then top to bottom; never reflow only occupied cells to fill the image.\nSame strict early GTA III icon drawing, flat BLACK #111111 outlines, pale cream #F1D78D + ochre #D6A028 fills, red #CC3B35 ONLY for medical cross and local rampage accent, blue-gray #526875 ONLY for armor. EXACTLY FOUR icons all in TOP ROW; remaining 12 cells EMPTY. Row 1: simple squat cream Soviet first-aid box with RED cross and a handle, one side shadow plane; plain front-facing armor vest with one broad plate and shoulder straps, no pouch detail; plain upright gold instant-coffee foil pack, dark top seam and one bean motif, NO writing; simple metalworker hammer diagonally above a stylized cream skull, compact integrated rampage emblem, small flat red halo immediately behind silhouette (one hard red shape, NO blurry atmospheric glow). Large plain shapes, no scratched material texture or tiny teeth."
+    },
+    {
+      "file": "sheet_e_radio.png",
+      "grid": [
+        2,
+        2
+      ],
+      "ids": [
+        "kodlo",
+        "cast",
+        "shanson",
+        "barista"
+      ],
+      "prefix": "radio",
+      "target_size": 512,
+      "prompt": "Use case: logo-brand. Asset type: four original transparent PNG radio station logos for the game Klad Theft Hummer: Коростишів. Exact square 1024×1024 canvas, invisible equal 2×2 grid, 512×512 per cell. One logo centered in each cell with 10% blank transparent padding. No grid lines, background, mockups, ground shadows, watermark or extra text. A matching early-2000s GTA III radio-station logo set: vivid spot colors, punchy genre-specific lettering, thick black contours, simple graphic emblems, compact readable compositions, no modern gradients or glossy esports mascots. Distinct station identities, consistent line weight. TOP LEFT: hammer emblem with chunky angular cream-and-orange Cyrillic lettering exactly 'РАДІО КОДЛО' (two lines), a worn metalworker hammer incorporated behind the wording, underground trash rap/phonk station, small warm red accent. TOP RIGHT: exact word 'KodloCAST', case-sensitive, cream bold condensed lettering with black outline, blue-gray retro broadcast microphone above or beside the lettering, strong talk-radio identity. BOTTOM LEFT: exact Cyrillic 'ШАНСОН КОРОСТИШІВ' on two compact lines, sturdy cream slab lettering with black outline, dark red rose and small broken handcuff motif framing the wording, old criminal chanson mood, no extra words. BOTTOM RIGHT: exact 'BARISTA FM', cream and coffee-brown vintage rounded lettering, ochre ceramic coffee cup with two restrained steam lines, worn 1970s radio badge composition, lo-fi mood. Check Cyrillic letter sequence exactly: Р А Д І О / К О Д Л О ; Ш А Н С О Н / К О Р О С Т И Ш І В. Keep all words unobscured and fully inside respective cells. Genuine transparent background.\nSTYLE OVERRIDE: strict flat screenprint logos, no shading, no texture or gradients. Across ALL four use only BLACK #111111, CREAM #F1D78D, OCHRE #D6A028 and muted RED #CC3B35. For KodloCAST use cream/black microphone instead of blue. Chunky austere typography, 2–4 flat shapes in each pictogram, consistent firm line weight, early-2000s radio typography. No decorative flourish or realistic object rendering."
+    },
+    {
+      "file": "sheet_f_mission_items.png",
+      "grid": [
+        4,
+        4
+      ],
+      "ids": [
+        "gold_box",
+        "sugar",
+        "donor_phone",
+        "debt_journal",
+        "cashbox"
+      ],
+      "prefix": "item",
+      "target_size": 256,
+      "prompt": "Use case: stylized-concept. Asset type: original strict simple GTA III (2001 original PC) HUD icon sprite sheet for Klad Theft Hummer: Коростишів. This is tiny old game HUD art, drawn with a blunt black brush and just TWO solid color fills, not polished detailed game concept art. Reduce every subject to a compact hard recognizable silhouette, 2–5 major interior black shapes at most. Thick BLACK contour of exactly consistent weight across all icons, angular restrained drawing, firm straight edges. NO surface textures, grain, wear speckles, scratches, engravings, fine hatching, realistic shading, gradients, gloss, bevels, soft lighting, 3D volume, tiny mechanical features, decorative embellishment or fine highlights. Only the fixed limited palette stated below, large flat areas with one hard shadow shape. Use no more detail than an original 32px GTA III weapon icon; at 32px each icon should remain almost unchanged in meaning. Center each whole silhouette inside its invisible cell with at least 12% empty padding. EXACT square 1024×1024 transparent PNG, invisible 4×4 grid, 256×256 cell. Entirely transparent unused cells. No background, floor, cast shadow, checkerboard, border, drawn grid, captions, numbers, lettering or watermark. Strict occupied-cell positions, left to right then top to bottom; never reflow only occupied cells to fill the image.\nFixed palette for ALL mission objects: BLACK #111111 + cream #F1D78D + ochre #D6A028 ONLY. Strict simple flat game-item icons, one heavy dark contour, at most 3 internal separators, no realistic fabric/cardboard/metal texture. EXACTLY FIVE occupied cells. Row 1: open cardboard box with THREE simple coffee jars, plain gold lids and black coffee-bean motifs, no labels; bulging sugar sack tied at top, one faint black ownership scribble but NO readable text; old dismantled button phone, single plain screen, loose simple circuit board and TWO wire strokes, no mechanical microdetail; worn closed debt ledger with a little exposed plain squared notebook paper, large sparse grid only, no writing. Row 2 cell 1: simple rectangular metal cashbox with latch and a closed ledger on top, one integrated compact shape. Row 2 rest EMPTY. Rows 3 and 4 all EMPTY."
+    },
+    {
+      "file": "app_icon.png",
+      "grid": [
+        1,
+        1
+      ],
+      "ids": [
+        "app"
+      ],
+      "prefix": "app",
+      "target_size": 1024,
+      "prompt": "Use case: logo-brand. Asset type: transparent 1024×1024 app icon for Klad Theft Hummer: Коростишів. Centered original emblem, two battered Podro metalworker hammers crossed in a strong X in the foreground, old steel flat striking heads with cross-peen backs and worn tan wooden handles, behind them the bold simplified silhouette of Korostyshiv: on left a squat five-storey brick Khrushchevka block, on right the Nativity Catholic church with its distinctive broad central curved pediment and TWO symmetrical short bell towers capped with round small domes. Early GTA III 2001 painted poster language: thick nearly black contours, hard limited flat-shaded planes, realistic sturdy proportions, muted charcoal city silhouette, steel-gray heads, ochre wood and restrained cream edge highlights. Hammer X is the main focal point, recognizable even at 64px. Keep skyline subordinate, only a few big windows, no intricate architectural linework. Compact nearly square emblem with at least 8% fully transparent padding around all outer edges. Absolutely NO text, lettering, numbers, badge ribbons, weapons other than the hammers, watermark, logos from other games, generic stars, photorealism, glossy 3D, gradient background, shadow below or checkerboard. Genuine transparent background.\nSTYLE OVERRIDE: strict very simple black-and-ochre silhouette emblem using ONLY BLACK #111111, CREAM #F1D78D and OCHRE #D6A028. No texture, no shading gradients, no realistic steel or wood material, no detailed windows; 2 solid flat color planes maximum. Uniform bold blunt black contour. Each building has only 2–4 major interior openings. Crossed hammers strongly dominate. Geometric, austere, readable at 64px."
+    }
+  ]
+}

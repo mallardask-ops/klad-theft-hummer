@@ -1,0 +1,83 @@
+[
+  {
+    "file": "cover.png",
+    "size": [
+      1024,
+      1280
+    ],
+    "mode": "RGB",
+    "valid": true
+  },
+  {
+    "file": "cover_with_logo.png",
+    "size": [
+      1024,
+      1280
+    ],
+    "mode": "RGB",
+    "valid": true
+  },
+  {
+    "file": "loading_01.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mode": "RGB",
+    "valid": true
+  },
+  {
+    "file": "loading_02.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mode": "RGB",
+    "valid": true
+  },
+  {
+    "file": "loading_03.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mode": "RGB",
+    "valid": true
+  },
+  {
+    "file": "loading_04.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mode": "RGB",
+    "valid": true
+  },
+  {
+    "file": "menu_main.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mode": "RGB",
+    "valid": true
+  },
+  {
+    "file": "menu_page.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mode": "RGB",
+    "valid": true
+  },
+  {
+    "file": "portrait_podro.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "valid": true
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "scripts/main.gd": 214,
+  "scripts/vehicle.gd": 6,
+  "scripts/player.gd": 1,
+  "scripts/person.gd": 2,
+  "tools/build_audio.py": 120,
+  "tools/import_recorded_audio.py": 24
+}

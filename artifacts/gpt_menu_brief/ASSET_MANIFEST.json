@@ -1,0 +1,132 @@
+[
+  {
+    "file": "cover.png",
+    "size": [
+      1024,
+      1280
+    ],
+    "generated_source": "/home/mallar2d/.codex/generated_images/01a13460-e07b-7971-8572-61dcaa1c6332/exec-e4e4263d-21ce-4219-a763-1b6cf6eb619e.png",
+    "native_size": [
+      1122,
+      1402
+    ],
+    "mode": "RGB",
+    "sha256": "3a1bec82deffe5effb5c31bf34c04440709754645554d2020d4820c77f181e36"
+  },
+  {
+    "file": "cover_with_logo.png",
+    "size": [
+      1024,
+      1280
+    ],
+    "generated_source": "/home/mallar2d/.codex/generated_images/01a13460-e07b-7971-8572-61dcaa1c6332/exec-d2ce2eac-8679-4855-8084-07526d47845a.png",
+    "native_size": [
+      1122,
+      1402
+    ],
+    "mode": "RGB",
+    "sha256": "289365f4ecf494a48d24d6992128017470938acb4dea7a9eac17e4bfcd98d464"
+  },
+  {
+    "file": "loading_01.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "generated_source": "/home/mallar2d/.codex/generated_images/01a13460-e07b-7971-8572-61dcaa1c6332/exec-87ec203c-8350-4497-ab66-91bb483b164e.png",
+    "native_size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256": "359e38e2dd00847636a465ce9e538c6edfcb080d0f5dffed831ec81e26882ec8"
+  },
+  {
+    "file": "loading_02.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "generated_source": "/home/mallar2d/.codex/generated_images/01a13460-e07b-7971-8572-61dcaa1c6332/exec-7d7ca854-b203-4119-a02c-87aa58f28b7f.png",
+    "native_size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256": "04f003d858d799db3abca9c68f78fc09549c35bed704a31af5b529d85c06c174"
+  },
+  {
+    "file": "loading_03.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "generated_source": "/home/mallar2d/.codex/generated_images/01a13460-e07b-7971-8572-61dcaa1c6332/exec-7e18b465-33dd-4a39-aa3f-da37cb8d1d1e.png",
+    "native_size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256": "68da9f068d3a62a9fa32d0d7e544c72d40a78acb15482be6f2102772ef60a8a4"
+  },
+  {
+    "file": "loading_04.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "generated_source": "/home/mallar2d/.codex/generated_images/01a13460-e07b-7971-8572-61dcaa1c6332/exec-3ea216c4-f4ef-4738-bc09-44ab7081754f.png",
+    "native_size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256": "e4a7853b7b5a0b97ab6d7bac3530c95ac792eb47c323bb463b5d044c5969ae90"
+  },
+  {
+    "file": "menu_main.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "generated_source": "/home/mallar2d/.codex/generated_images/01a13460-e07b-7971-8572-61dcaa1c6332/exec-b13f87c8-26b5-49c4-a8c0-9379f527bad9.png",
+    "native_size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256": "1617e0520cf7838253f327f089648bbbe3073c5e18fcc722c88fb2e2327ac26c"
+  },
+  {
+    "file": "menu_page.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "generated_source": "/home/mallar2d/.codex/generated_images/01a13460-e07b-7971-8572-61dcaa1c6332/exec-125d21a6-0c93-42d1-83ea-0c65d6baeecd.png",
+    "native_size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256": "29553fb6f10721c399ff123ba39c4f5a84c1a728333b036cb18e8f93608fbb30"
+  },
+  {
+    "file": "portrait_podro.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "generated_source": "/home/mallar2d/.codex/generated_images/01a13460-e07b-7971-8572-61dcaa1c6332/exec-239650bd-746f-46f6-9879-674751d7b189.png",
+    "native_size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "sha256": "7eb3cd1bbe6d1bb83b8b908308aae945b71645731978b95e988172b5843931a0"
+  }
+]
